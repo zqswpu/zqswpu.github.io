@@ -3,10 +3,7 @@
     <header class="content-hd">
       <section class="info">
         <ul>
-          <li>研究方向：图像处理、并行计算、嵌入式系统</li>
-          <li>
-            联系方式：<a href="tel:13348832560">13348832560</a>
-          </li>
+          <li>研究方向：计算机视觉、图像处理、并行计算、地震勘探信号处理、水力压裂井筒听诊技术</li>
           <li>
             个人邮箱：<a href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a>
           </li>
@@ -51,8 +48,10 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向</strong> </a>
               </header>
               <div class="item-bd">
-                  <ul class="section-content">
-                  <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，智能警务四川省重点实验室2024年度开放课题（第一负责） &nbsp;</li>
+                  <ul class="section-content">                      
+                    <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目（第一负责） &nbsp;</li>
+                    <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划（第二负责） &nbsp;</li>
+                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，智能警务四川省重点实验室2024年度开放课题（第一负责） &nbsp;</li>
                     <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次被高效压制与深度学习集成研究，南充市-西南石油大学市校科技战略合作项目（第二负责） &nbsp;</li>
                     <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，智能警务四川省重点实验室2023年度开放课题（第二负责） &nbsp;</li>
                     <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，油气藏地质及开发工程国家重点实验室2022年开放基金课题（第一负责） &nbsp;</li>
@@ -76,6 +75,12 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                    <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
+                    <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
+                    <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
+                    <li>张全,吕晓雨,雷芩,等.基于改进pix2pix GAN的多次波压制算法[J].石油地球物理勘探,2024,59(04):664-674 (EI)&nbsp;</li>
+                    <li>张全,刘田甜,杨亮,等.基于人体关键点的吸烟打电话检测[J].计算机应用与软件,1-10. (网络首发 中文核心)&nbsp;</li>
+                    <li>Gao G, Yang L, Zhang Q,et al.ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures[J].Remote Sensing, 2023, 15(23). (SCI)&nbsp;</li>
                     <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
                     <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
                     <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)&nbsp;</li>
@@ -108,7 +113,9 @@
             <h2 class="item-name">学科竞赛（指导教师）：</h2>
         </header>
         <ul class="section-content">
-            <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛二等奖（张强、李锡涛、杨嘉苓、江国庆） &nbsp;</li>
+            <li>2024年“ASC世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、廖洪樟） &nbsp;</li>
+            <li>2024年“全国大学生计算机系统能力大赛（先导杯）三等奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
+            <li>2024年“全国大学生计算机系统能力大赛（先导杯）三等奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
             <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
             <li>2022年“神威 国实杯”第六届国产CPU并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥） &nbsp;</li>
             <li>2022年（第15届）中国大学生计算机设计大赛全国一等奖（邓平、冉杰、颜宇杰） &nbsp;</li>
