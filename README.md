@@ -75,6 +75,9 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                    <li>张全,王顺,刘洋毅等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(02):57-67. DOI： 10.11959/j.issn.1000-0801.2025027.(中文核心)&nbsp;</li>
+                    <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
+                    <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
                     <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
                     <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
                     <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
@@ -103,6 +106,7 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                    <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法 (授权号：ZL 2024 1 1854716.8) &nbsp;</li>  
                     <li>张全,杨亮,汪崇民,彭博,吕晓雨,王顺;卿超,王一帆,周文俊,李艳. 一种基于局部纹理的单视图三维重建方法 (授权号：ZL 2023 1 1835358.1) &nbsp;</li>                      
                     <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法 (授权号：ZL 2022 1 1670815.1) &nbsp;</li>
                     <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法 (授权号：ZL 2021 1 0207092.0) &nbsp;</li>
@@ -113,9 +117,10 @@
             <h2 class="item-name">学科竞赛（指导教师）：</h2>
         </header>
         <ul class="section-content">
+            <li>2025年“ASC世界大学生超级计算机竞赛二等奖（杨嘉苓、郑云鹤、廖洪樟、何广勇、关忠林） &nbsp;</li>
             <li>2024年“ASC世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、李锡涛） &nbsp;</li>
-            <li>2024年“全国大学生计算机系统能力大赛（先导杯）三等奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
-            <li>2024年“全国大学生计算机系统能力大赛（先导杯）三等奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
+            <li>2024年“全国大学生计算机系统能力大赛（先导杯）优胜奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
+            <li>2024年“全国大学生计算机系统能力大赛（先导杯）优胜奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
             <li>2024年“全国海洋计算挑战赛三等奖（丁致宇、何广勇、刘潘毅、周子翔） &nbsp;</li>
             <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
             <li>2022年“神威 国实杯”第六届国产CPU并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥） &nbsp;</li>
