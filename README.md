@@ -75,6 +75,10 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                    <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16.录用(CSCD,中文核心)&nbsp;</li> 
+                    <li>张全,刘田甜,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
+                    <li>张全,周甯,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
+                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,1-16.https://doi.org/10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
                     <li>张全,王顺,刘洋毅等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(02):57-67. DOI： 10.11959/j.issn.1000-0801.2025027.(中文核心)&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
