@@ -3,7 +3,7 @@
     <header class="content-hd">
       <section class="info">
         <ul>
-          <li>研究方向：计算机视觉、图像处理、并行计算、地震勘探信号处理、水力压裂井筒听诊技术</li>
+          <li>研究方向：计算机视觉、图像处理、并行计算、地震勘探信号处理</li>
           <li>
             个人邮箱：<a href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a>
           </li>
@@ -48,7 +48,8 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向</strong> </a>
               </header>
               <div class="item-bd">
-                  <ul class="section-content">                      
+                  <ul class="section-content">
+                    <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），国家科技重大专项（第一负责） &nbsp;</li>    
                     <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目（第一负责） &nbsp;</li>
                     <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划（第二负责） &nbsp;</li>
                     <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，智能警务四川省重点实验室2024年度开放课题（第一负责） &nbsp;</li>
@@ -75,6 +76,8 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                    <li>Quan Zhang, Xiaoyu Lv,等.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li> 
+                    <li>张全,周甯,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
                     <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16.录用(CSCD,中文核心)&nbsp;</li> 
                     <li>张全,刘田甜,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
                     <li>张全,周甯,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
