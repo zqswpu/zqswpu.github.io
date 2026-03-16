@@ -79,12 +79,12 @@
                   <ul class="section-content">
                     <li>Quan Zhang, Xiaoyu Lv,等.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li>                       	  
                     <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
-                    <li>张全,周甯,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-12.录用(EI,中文核心)&nbsp;</li> 
+                    <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-12.网络首发(EI,中文核心)&nbsp;</li> 
                     <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16.录用(CSCD,中文核心)&nbsp;</li> 
-                    <li>张全,刘田甜,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
-                    <li>张全,周甯,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,1-16.录用(EI,中文核心)&nbsp;</li> 
-                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,1-16.https://doi.org/10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
-                    <li>张全,王顺,刘洋毅等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(02):57-67. DOI： 10.11959/j.issn.1000-0801.2025027.(中文核心)&nbsp;</li>
+                    <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-11.网络首发(EI,中文核心)&nbsp;</li> 
+                    <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.(EI,中文核心)&nbsp;</li> 
+                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,1-16.网络首发(中文核心)&nbsp;</li>  
+                    <li>张全,王顺,刘洋毅等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(02):57-67.(中文核心)&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
                     <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
@@ -130,11 +130,15 @@
             <h2 class="item-name">学科竞赛（指导教师）：</h2>
         </header>
         <ul class="section-content">
-            <li>2025年“ASC世界大学生超级计算机竞赛二等奖（杨嘉苓、郑云鹤、廖洪樟、何广勇、关忠林） &nbsp;</li>
-            <li>2024年“ASC世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、李锡涛） &nbsp;</li>
-            <li>2024年“全国大学生计算机系统能力大赛（先导杯）优胜奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
-            <li>2024年“全国大学生计算机系统能力大赛（先导杯）优胜奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
-            <li>2024年“全国海洋计算挑战赛三等奖（丁致宇、何广勇、刘潘毅、周子翔） &nbsp;</li>
+            <li>2025年海洋计算挑战赛（MCC）总决赛全国三等奖（况越、队员、白梓彤、梁建新、徐伊曼） &nbsp;</li>
+            <li>2025年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国优胜奖（白梓彤、张涵熙、何俊霄） &nbsp;</li>
+            <li>2025年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国优胜奖（张振毅、张冰鑫、高建瓴、周子翔） &nbsp;</li>
+            <li>2025年中国青年科技创新“揭榜挂帅”擂台赛新一代信息技术领域主擂台赛全国优胜奖（徐伊曼、况越、刘潘毅、张蔚豪、黄熙） &nbsp;</li>
+            <li>2025年ASC世界大学生超级计算机竞赛二等奖（杨嘉苓、郑云鹤、廖洪樟、何广勇、关忠林） &nbsp;</li>
+            <li>2024年ASC世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、李锡涛） &nbsp;</li>
+            <li>2024年全国大学生计算机系统能力大赛（先导杯）优胜奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
+            <li>2024年全国大学生计算机系统能力大赛（先导杯）优胜奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
+            <li>2024年全国海洋计算挑战赛三等奖（丁致宇、何广勇、刘潘毅、周子翔） &nbsp;</li>
             <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
             <li>2022年“神威 国实杯”第六届国产CPU并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥） &nbsp;</li>
             <li>2022年（第15届）中国大学生计算机设计大赛全国一等奖（邓平、冉杰、颜宇杰） &nbsp;</li>
