@@ -3,7 +3,7 @@
     <header class="content-hd">
       <section class="info">
         <ul>
-          <li>研究方向：计算机视觉、图像处理、并行计算、地震勘探信号处理</li>
+          <li>研究方向：计算机视觉（目标检测、三维重建）、信号处理、并行计算</li>
           <li>
             个人邮箱：<a href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a>
           </li>
