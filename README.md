@@ -77,7 +77,7 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
-                    <li>Quan Zhang, Xiaoyu Lv,等.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li>                       	  
+                    <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li>                       	  
                     <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
                     <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-12.网络首发(EI,中文核心)&nbsp;</li> 
                     <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16.录用(CSCD,中文核心)&nbsp;</li> 
