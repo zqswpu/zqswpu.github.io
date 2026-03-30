@@ -80,7 +80,7 @@
                     <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li>                       	  
                     <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
                     <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-12.网络首发(EI,中文核心)&nbsp;</li> 
-                    <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16.录用(CSCD,中文核心)&nbsp;</li> 
+                    <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16。.录用(CSCD,中文核心,通讯作者)&nbsp;</li> 
                     <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-11.网络首发(EI,中文核心)&nbsp;</li> 
                     <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.(EI,中文核心)&nbsp;</li> 
                     <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,1-16.网络首发(中文核心)&nbsp;</li>  
