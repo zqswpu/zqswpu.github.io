@@ -67,8 +67,8 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向 </strong> </a>
               <div class="item-bd">
                   <ul class="section-content">
-                    <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司（第一负责） &nbsp;</li>
-                    <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司（第一负责） &nbsp;</li>
+                    <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司，项目负责人 &nbsp;</li>
+                    <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司，项目负责人 &nbsp;</li>
                   </ul>
               </div>
           </div>
