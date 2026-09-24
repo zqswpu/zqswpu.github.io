@@ -84,6 +84,7 @@
                     <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
                     <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
                     <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
+                    <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
                     <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
                     <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
                     <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
