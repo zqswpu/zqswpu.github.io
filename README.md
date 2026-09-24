@@ -48,18 +48,20 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向</strong> </a>
               </header>
               <div class="item-bd">
-                  <ul class="section-content">
-                    <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），国家科技重大专项子专题（主持） &nbsp;</li>    
-                    <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目（主持） &nbsp;</li>
-                    <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划（第一负责） &nbsp;</li>
-                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，智能警务四川省重点实验室2024年度开放课题（主持） &nbsp;</li>
-                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次波高效压制与深度学习集成研究，南充市-西南石油大学市校科技战略合作项目（第一负责） &nbsp;</li>
-                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;激光消光层析水含量成像算法研究，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题（主持） &nbsp;</li>
-                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，智能警务四川省重点实验室2023年度开放课题（第一负责） &nbsp;</li>
-                    <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，油气藏地质及开发工程国家重点实验室2022年开放基金课题（主持） &nbsp;</li>
-                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，油气藏地质及开发工程国家重点实验室2021年开放基金课题 （第一负责）&nbsp;</li>
-                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于联合深度学习的地震多次波压制方法研究，油气藏地质及开发工程国家重点实验室2021年开放基金课题（第一负责）&nbsp;</li>
-                    <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018年度西南石油大学科研“启航计划”自然科学类项目（主持） &nbsp;</li>
+                  <ul class="section-content">                      
+                    <li>2026.07-2027.07&nbsp;&nbsp;&nbsp;基于单目视频的井简内壁三维重建方法研究，26KSH001，能源装备智能可视化检测技术陕西省高校工程研究中心2026年度开放基金，主持 &nbsp;</li>    
+                    <li>2025.11-2027.11&nbsp;&nbsp;&nbsp;基于地面望远镜图像的扩展目标三维重建方法研究，FNLAO-25-MS-S04，自适应光学全国重点实验室，主持 &nbsp;</li>    
+                    <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），2025ZD1408805-04-02，国家科技重大专项子专题，主持 &nbsp;</li>    
+                    <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，2024CXJB09，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目，主持  &nbsp;</li>
+                    <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，CQXNLX-2024-11，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划，项目负责人 &nbsp;</li>
+                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，ZNJW2024KFMS003，智能警务四川省重点实验室2024年度开放课题面上项目，主持  &nbsp;</li>
+                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次波高效压制与深度学习集成研究，23XNSYSX0089，南充市-西南石油大学市校科技战略合作项目，项目负责人 &nbsp;</li>
+                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;激光消光层析水含量成像算法研究，IADL20220X0X，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题，主持  &nbsp;</li>
+                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，ZNJW2023KFZD003，智能警务四川省重点实验室2023年度开放课题重点项目，项目负责人 &nbsp;</li>
+                    <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，PLN2022-51，油气藏地质及开发工程国家重点实验室2022年开放基金课题，主持  &nbsp;</li>
+                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，PLN2021-21，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人 &nbsp;</li>
+                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于联合深度学习的地震多次波压制方法研究，PLN2021-25，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人 &nbsp;</li>
+                    <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018QHZ024，2018年度西南石油大学科研“启航计划”自然科学类项目，主持  &nbsp;</li>
                   </ul>
               </div>
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向 </strong> </a>
@@ -77,14 +79,17 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
-                    <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.录用(SCI 3区)&nbsp;</li>                       	  
+                    <li>Quan Zhang, Lingling Guo,et al.DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J].IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.(SCI 3区)&nbsp;</li> 
+                    <li>Quan Zhang, Yangchao Liu,et al.Free surface multiple suppression based on improved Uformer networkg[J].Journal of Applied Geophysics,252,2026,106376.(SCI 3区)&nbsp;</li> 
+                    <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
+                    <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
                     <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
-                    <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,1-12.网络首发(EI,中文核心)&nbsp;</li> 
-                    <li>赵红利,张全,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展,1-16。.录用(CSCD,中文核心,通讯作者)&nbsp;</li> 
-                    <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,1-11.网络首发(EI,中文核心)&nbsp;</li> 
-                    <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.(EI,中文核心)&nbsp;</li> 
-                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,1-16.网络首发(中文核心)&nbsp;</li>  
-                    <li>张全,王顺,刘洋毅等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(02):57-67.(中文核心)&nbsp;</li>
+                    <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
+                    <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
+                    <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
+                    <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.DOI:10.13382/j.jemi.B2508311.(EI,中文核心)&nbsp;</li> 
+                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,2026,66(7):1211-1220.DOI:10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
+                    <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
                     <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
                     <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
@@ -115,14 +120,15 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
-                    <li>张全,刘田甜,段昶,彭博,李艳.一种应用于雾天车辆重识别的特征融合方法(授权号：ZL 2025 1 0306419.8) &nbsp;</li> 
-                    <li>张全,赵红利,魏明强,彭博,李艳.一种利用水力压裂水击信号确定进液点位置的方法(授权号：ZL 2025 1 0642276.8) &nbsp;</li> 
-                    <li>张全,杨鑫海,彭博,周文俊,陈曦宇,杨可,岳静. 一种并行模拟水力压裂裂缝扩展的方法(授权号：ZL 2025 1 1317163.7) &nbsp;</li>  
-                    <li>张全,杨亮,白儒,彭博，等. 一种改进的基于深度学习的晶体TEM图像物相划分方法(授权号：ZL 2023 1 1122879.2) &nbsp;</li>  
-                    <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法(授权号：ZL 2024 1 1854716.8) &nbsp;</li>  
-                    <li>张全,杨亮,汪崇民,彭博,等.一种基于局部纹理的单视图三维重建方法(授权号：ZL 2023 1 1835358.1) &nbsp;</li>                     
-                    <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法(授权号：ZL 2022 1 1670815.1) &nbsp;</li>
-                    <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法(授权号：ZL 2021 1 0207092.0) &nbsp;</li>
+                    <li>张全;郭羚羚;吴世豪;马琪;彭博.一种融合注意力与解耦记忆学习的车辆多目标跟踪方法(授权号：2026107037688) &nbsp;</li>
+                    <li>张全,刘田甜,段昶,彭博,李艳.一种应用于雾天车辆重识别的特征融合方法(授权号：2025103064198) &nbsp;</li> 
+                    <li>张全,赵红利,魏明强,彭博,李艳.一种利用水力压裂水击信号确定进液点位置的方法(授权号：2025106422768) &nbsp;</li> 
+                    <li>张全,杨鑫海,彭博,周文俊,陈曦宇,杨可,岳静. 一种并行模拟水力压裂裂缝扩展的方法(授权号：2025113171637) &nbsp;</li>  
+                    <li>张全,杨亮,白儒,彭博，等. 一种改进的基于深度学习的晶体TEM图像物相划分方法(授权号：2023111228792) &nbsp;</li>  
+                    <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法(授权号：2024118547168) &nbsp;</li>  
+                    <li>张全,杨亮,汪崇民,彭博,等.一种基于局部纹理的单视图三维重建方法(授权号：2023118353581) &nbsp;</li>                     
+                    <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法(授权号：2022116708151) &nbsp;</li>
+                    <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法(授权号：2021102070920) &nbsp;</li>
                   </ul>
             </div>
         </div>
@@ -130,6 +136,8 @@
             <h2 class="item-name">学科竞赛（指导教师）：</h2>
         </header>
         <ul class="section-content">
+            <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（叶虹羽、张蔚豪、廖宇昊、张振毅） &nbsp;</li>
+            <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（张明泽、吴沛伦、江益川、王帅） &nbsp;</li>
             <li>2026年ASC世界大学生超级计算机竞赛二等奖（张蔚豪、张振毅、杨嘉苓、何广勇、孔星权） &nbsp;</li>
             <li>2026年ASC世界大学生超级计算机竞赛二等奖（张涵熙、徐伊曼、况越、高建瓴、白梓彤） &nbsp;</li>
             <li>2026年ASC世界大学生超级计算机竞赛二等奖（刘潭、何佳俊、曹成湘、吴雨宸） &nbsp;</li>             
