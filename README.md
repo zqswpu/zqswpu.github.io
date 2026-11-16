@@ -1,176 +1,283 @@
-<main class="content">
-    <br>
-    <header class="content-hd">
-      <section class="info">
-        <ul>
-          <li>研究方向：计算机视觉、智能图像处理、高性能计算、石油勘探信号处理</li>
-          <li>
-            个人邮箱：<a href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a>
-          </li>
+<!DOCTYPE html>
+<html data-page-node-id="frc826sgF7sRidFTu6j6CM" lang="zh-CN"><head data-page-node-id="NLoYHO4F2dKpscu1dLilCg">
+<meta data-page-node-id="8RT1gPZ08KCD6b50JiB6aA" charset="UTF-8">
+<meta data-page-node-id="xMkRRRod5dWUByyEhsODVL" name="viewport" content="width=device-width, initial-scale=1.0">
+<title data-page-node-id="brC8fsop3l1oE1NLC75fSt" data-pnid-children="Cd0yNv9uBVeWnJoZmG3AGc">张全 · 西南石油大学副教授 · 个人主页</title>
+<style data-page-node-id="Wh5KvhiB4zUMl7eAVsITxW" data-pnid-children="ZodS7xJN2MzvDHXDJqbON3">
+  :root{
+    --navy:#12305c; --navy-2:#1d4785; --red:#b3121f;
+    --ink:#1f2937; --muted:#5b6675; --line:#dfe5ee;
+    --bg:#f5f7fb; --card:#ffffff; --todo:#fff4e5;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Microsoft YaHei","PingFang SC","Source Han Sans SC",system-ui,sans-serif;
+    font-size:14px;line-height:1.75}
+  .content{max-width:1080px;margin:0 auto;padding:28px 20px 60px}
+  .content-hd{background:linear-gradient(120deg,var(--navy) 0%,var(--navy-2) 100%);
+    color:#fff;border-radius:10px;padding:30px 34px;border-top:4px solid var(--red)}
+  .content-hd h1{margin:0 0 6px;font-size:30px;letter-spacing:1px}
+  .content-hd h1 span{font-size:16px;font-weight:400;opacity:.8;margin-left:10px}
+  .title{margin:0 0 14px;color:#ffd9dc;font-size:15px}
+  .intro{margin:0 0 18px;max-width:860px;color:#eaf1fb}
+  .contact{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 26px;font-size:13px}
+  .contact a{color:#ffe08a}
+  .todo{background:var(--todo);color:#8a5300;padding:1px 6px;border-radius:3px;font-size:12px}
+  .content-bd{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:20px;margin-top:20px}
+  @media(max-width:860px){.content-bd{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:8px;
+    padding:20px 24px;margin-bottom:18px}
+  .card h2{margin:0 0 14px;font-size:18px;color:var(--navy);
+    border-left:4px solid var(--red);padding-left:10px}
+  .card h3{margin:18px 0 8px;font-size:15px;color:var(--navy-2)}
+  .card h3:first-of-type{margin-top:0}
+  .card ul{margin:0;padding-left:20px}
+  .card li{margin:5px 0}
+  .tag{display:inline-block;background:#e9f0fb;color:var(--navy);border:1px solid #cbd9ee;
+    border-radius:3px;padding:0 7px;font-size:12px;margin-right:6px}
+  .hl{background:#fff;border-left:3px solid var(--red);padding:10px 14px;margin:10px 0;
+    border-radius:0 5px 5px 0}
+  .hl b{color:var(--navy)}
+  .meta{color:var(--muted);font-size:12px}
+  .skills{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:12px}
+  .skill{border:1px solid var(--line);border-radius:6px;padding:12px 14px;background:#fbfcfe}
+  .skill b{color:var(--navy-2)}
+  .side .card{padding:16px 18px}
+  .year{color:var(--red);font-weight:600}
+  .footnote{color:var(--muted);font-size:12px;margin-top:8px}
+</style>
+</head>
+<body data-page-node-id="UXvxmXGe9BATbXSFGGI0Rh">
+<main data-page-node-id="To9CDbw6ZuxCSg9kgrTryQ" class="content">
+
+  <header data-page-node-id="wQBMF7UohDZIsl4MGLnJkA" class="content-hd">
+    <section data-page-node-id="MXZiDgN3rsBrY6lM4shmDP" class="info">
+      <h1 data-page-node-id="WzlzleDOabjBEak3KT7rr2">张全 <span data-page-node-id="ScyapohtAakYBRZjyyDRRd">Quan Zhang</span></h1>
+      <p data-page-node-id="bEb9eXpO7uty3EaOlFwlFF" class="title">西南石油大学 · 副教授 ｜ 研究方向：计算机视觉 / 智能图像处理 / 高性能计算 / 石油勘探信号处理</p>
+      <p data-page-node-id="UoSt9T9I0RUjCafBlmMuBh" class="intro">
+        电子科技大学信号与信息处理博士，中国科学院光电技术研究所联合培养博士；现任西南石油大学副教授（2024.1 至今）。
+        长期围绕单视图三维重建、目标检测与跟踪、地震多次波压制及 CPU-GPU 并行算法开展研究，
+        主持国家科技重大专项子专题、自适应光学全国重点实验室开放课题等科研项目，
+        并指导学生在 ASC 世界大学生超级计算机竞赛、全国大学生计算机系统能力大赛等赛事中多次获奖。
+      </p>
+      <ul data-page-node-id="40u2RUJeXXNZpg5gS3T7BG" class="contact">
+        <li data-page-node-id="Rucxy5JGGk5xzv7HCbBtL0">邮箱：<a data-page-node-id="kjAKRFDxpHMuYIWc6S3HtH" href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a></li>
+        <li data-page-node-id="MOh6EW2i4AKGDnIinwexbb">GitHub：<span data-page-node-id="0stNRI4cD6c0Abzyzqag2h" class="todo">【待补：主页链接 / 开源仓库】</span></li>
+        
+        <li data-page-node-id="0E75C9DqHgnlWCKWsnk9p8">个人主页 / 课题组主页：<span data-page-node-id="eBDGgntMtpSl1EBTbzSuRF" class="todo">【待补】</span></li>
+      </ul>
+    </section>
+  </header>
+
+  <div data-page-node-id="FJ8XjljwnDK1FDqu8QhgJN" class="content-bd">
+    <div data-page-node-id="YbwEoZGcYdJF9T4AWL4mYG" class="content-left">
+
+      <section data-page-node-id="zK7xq9xCSdLdInE56647hD" class="card" id="highlights">
+        <h2 data-page-node-id="JG1EvJYGANmo1AqxUaSEhJ">代表工作亮点</h2>
+        <div data-page-node-id="D9ADLGKCg9ItP5UkxD8fAE" class="hl"><b data-page-node-id="ehmfeJf0HyF49xqzRkm6pQ">国家级项目：</b>主持国家科技重大专项子专题"智慧运营中心智能感知功能建设（专题）"（2025ZD1408805-04-02，2025.07–2030.12）。</div>
+        <div data-page-node-id="paDigbGSDVyvJCrDYEFJWb" class="hl"><b data-page-node-id="BwH3pwtXBhsClvFNGSpAYJ">重点实验室课题：</b>主持自适应光学全国重点实验室开放课题"基于地面望远镜图像的扩展目标三维重建方法研究"（FNLAO-25-MS-S04，2025.11–2027.11）。</div>
+        <div data-page-node-id="aBE6RABD0X4m7WQYnJsBNr" class="hl"><b data-page-node-id="Kt96PtrEFDePNwXlO6CehW">校企联合攻关：</b>主持中国石油—西南石油大学创新联合体"揭榜挂帅"项目"深层碳酸盐岩层间多次波波场机理及智能压制研究"（2024CXJB09）；承担川庆钻探水力压裂流固耦合并行计算项目（CQXNLX-2024-11，已结题）。</div>
+        <div data-page-node-id="w1d5PVeQ5dFzoDkIc4EWX9" class="hl"><b data-page-node-id="xcUmIm3I83F5jUJT8bttaY">人才培养：</b>指导学科竞赛 21 项（按原页面条目计），含全国一等奖、ASC 世界大学生超级计算机竞赛一等奖及"神威"国产 CPU 并行应用挑战赛唯一金奖；主持《并行计算导论及应用》教材建设与研究生高性能计算课程建设。</div>
+        <p data-page-node-id="C3GHNRg37qePbsbDpaQnyG" class="footnote">以上亮点均取自下方经历与原页面事实；标注"按条目计"的数字为对原页面清单的统计，未做外部核验。</p>
+      </section>
+
+      <section data-page-node-id="05MFEnvI8tgbuVYuwPQVrF" class="card" id="skills">
+        <h2 data-page-node-id="1iN1mAx7Seiv9BnaZpb9rp">技能与专长</h2>
+        <div data-page-node-id="NegRG8YDr6eerpVWf9ydgG" class="skills">
+          <div data-page-node-id="RAEtShTlvuttcsDizUChH1" class="skill"><b data-page-node-id="TCGiIXQcAuxQ2wDYcHv8nE">计算机视觉与智能图像处理</b><br data-page-node-id="UH7gJeGFjwJeJxiK7XGUl7">单视图 / 单目三维重建、3D Gaussian Splatting、目标检测与多目标跟踪、车道线检测、车辆重识别、晶体 TEM 图像物相划分、相位复原与波前探测、BM3D 图像去噪。</div>
+          <div data-page-node-id="y2xuvOMcWP0vgheawT7mqJ" class="skill"><b data-page-node-id="MeLj4nF6kCiSTRjpKkBh2E">高性能计算</b><br data-page-node-id="FblDArOuuW8DAmxLO1mHf9">CPU-GPU 异构并行算法、CUDA 并行实现（Radon 变换、地震相干体、频率补偿、二维 FFT）、GPU 并行优化；并行计算课程与教材建设；国产 CPU 并行应用挑战赛指导经验。</div>
+          <div data-page-node-id="3xTlK2HHQ3x6hbNHxLim2D" class="skill"><b data-page-node-id="ikw52qJNUpLaHpsO4TFwGQ">石油勘探信号处理</b><br data-page-node-id="lpAnw4qxAgmkl9SJlfUEBi">地震多次波压制（U-Net / Uformer / GAN / Radon 变换）、反 Q 滤波能量补偿、水力压裂裂缝扩展流-固耦合并行模拟、停泵水击信号处理与进液点定位。</div>
+        </div>
+        <p data-page-node-id="QtVojct6FmV8InXdvZ1cin" class="footnote">本栏目为对原页面研究方向、项目与论文内容的归类整理，未新增未经证实的能力描述。</p>
+      </section>
+
+      <section data-page-node-id="mKtLcLC6cIFC2JTBIQoJCn" class="card" id="projects">
+        <h2 data-page-node-id="VBWl5gLi6SCn7ECAjosKv0">科研项目</h2>
+        <h3 data-page-node-id="wZDv6flDH6dQLcWHqiEcjS">纵向课题</h3>
+        <ul data-page-node-id="IZS0u6lmpK0ZNTrYbblXAs">
+          <li data-page-node-id="CoURahtQEyFWfElNanAW5G"><span data-page-node-id="pjXQVf8BaqEy6tm05MNvSP" class="year">2026.07–2027.07</span>　基于单目视频的井筒内壁三维重建方法研究，26KSH001，能源装备智能可视化检测技术陕西省高校工程研究中心 2026 年度开放基金，主持。</li>
+          <li data-page-node-id="qAUlKAckRHdI4muN5UA4ic"><span data-page-node-id="DOhBm77Jg7EIeW2eNGmTMA" class="year">2025.11–2027.11</span>　基于地面望远镜图像的扩展目标三维重建方法研究，FNLAO-25-MS-S04，自适应光学全国重点实验室，主持。</li>
+          <li data-page-node-id="PheG4tAb2zyVgR125OoDOY"><span data-page-node-id="BwtgyUUzCnQ7mSyauWuUKD" class="year">2025.07–2030.12</span>　智慧运营中心智能感知功能建设（专题），2025ZD1408805-04-02，国家科技重大专项子专题，主持。</li>
+          <li data-page-node-id="LQVEREqLyrG5McMqpcpTr8"><span data-page-node-id="c1XwmKFbpEzOHq9DNdsiHS" class="year">2024.12–2026.12</span>　深层碳酸盐岩层间多次波波场机理及智能压制研究，2024CXJB09，中国石油—西南石油大学创新联合体支持交叉学科发展"揭榜挂帅"项目，主持。</li>
+          <li data-page-node-id="pQXudSkDLSRlReyBcfXqmB"><span data-page-node-id="JrMBVqO8ENe4JYtIYur6sV" class="year">2024.10–2025.12</span>　高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，CQXNLX-2024-11，川庆钻探工程公司西南石油大学基础力学中心 2024 年新开科技项目计划，项目负责人，已结题。</li>
+          <li data-page-node-id="9pcT7xpaoFhMjw0ZCA5fdp"><span data-page-node-id="XjfcTbN8FsoGWYK8PNv1fU" class="year">2024.01–2025.12</span>　面向交通卡口违法车辆视觉感知关键技术研究，ZNJW2024KFMS003，智能警务四川省重点实验室 2024 年度开放课题面上项目，主持。</li>
+          <li data-page-node-id="w5NGg5u95SdAElQ2a1LPJN"><span data-page-node-id="EVDu4NgkVXJKhwNmqWefNG" class="year">2024.01–2025.12</span>　地震多次波高效压制与深度学习集成研究，23XNSYSX0089，南充市—西南石油大学市校科技战略合作项目，项目负责人，已结题。</li>
+          <li data-page-node-id="KDAOvdd3rkmdtlBxxzIAEl"><span data-page-node-id="4G3NKZVhnvm2xyVcCAWbSJ" class="year">2023.01–2024.12</span>　激光消光层析水含量成像算法研究，IADL20220X0X，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题，主持，已结题。</li>
+          <li data-page-node-id="rYq0f6hCOpfHjOyNKdedya"><span data-page-node-id="D9Zl4upBvEAHBaAiU4MDae" class="year">2023.01–2024.12</span>　城市场景监控视频行为分析方法研究，ZNJW2023KFZD003，智能警务四川省重点实验室 2023 年度开放课题重点项目，项目负责人，已结题。</li>
+          <li data-page-node-id="OBc45sh3Q8cBVHXezLgQJk"><span data-page-node-id="ZRDCroEjYVQ8jHZoV6KoS0" class="year">2022.10–2024.10</span>　石油钻井环境异常工况智能识别技术研究，PLN2022-51，油气藏地质及开发工程国家重点实验室 2022 年开放基金课题，主持，已结题。</li>
+          <li data-page-node-id="jkgMtCupJceMHOg9HBAN3F"><span data-page-node-id="xcCVNSgezj3sRIIv2IgHti" class="year">2021.09–2023.09</span>　基于高性能计算与卷积神经网络的地震多次波压制方法研究，PLN2021-21，油气藏地质及开发工程国家重点实验室 2021 年开放基金课题，项目负责人，已结题。</li>
+          <li data-page-node-id="KEHJ2kGmas7THeDXaTGHPV"><span data-page-node-id="hs7bSQnQYgmLVH23r9iqon" class="year">2021.09–2023.09</span>　基于联合深度学习的地震多次波压制方法研究，PLN2021-25，油气藏地质及开发工程国家重点实验室 2021 年开放基金课题，项目负责人，已结题。</li>
+          <li data-page-node-id="XoT8AiFT8AINHRt0TiS311"><span data-page-node-id="PavW1VUFPrjgZAR92Qv9PN" class="year">2019.01–2021.01</span>　医学超声模拟系统研究，2018QHZ024，2018 年度西南石油大学科研"启航计划"自然科学类项目，主持，已结题。</li>
+        </ul>
+        <h3 data-page-node-id="pnyeULUa6ngn2UGCCWGRwG">横向课题</h3>
+        <ul data-page-node-id="tHz7nDEpdMG2UIy2LokYtU">
+          <li data-page-node-id="jBHnIY9YF83APzkIcMX69U"><span data-page-node-id="eLaLBjIeCDDu33QGcSSo4a" class="year">2021.10–2022.06</span>　GPU 模块技术开发协议，青岛海信医疗设备股份有限公司，项目负责人。</li>
+          <li data-page-node-id="pfzKMQGyGHSvITOtm7PBxJ"><span data-page-node-id="QorfYY8jemdsCUnlOGvXl3" class="year">2018.01–2019.06</span>　GeoScope 软件模块 GPU 提速开发，成都晶石石油科技有限公司，项目负责人。</li>
+        </ul>
+        <h3 data-page-node-id="c3hKIpKPVDnAxmoG9Vp5ME">教学改革</h3>
+        <ul data-page-node-id="UeXjfXCLufS9KK27kteDDw">
+          <li data-page-node-id="WHiT2uNtCba04TXJnPDjVp"><span data-page-node-id="2Ugd4MiRGqplEwBDeC2Jay" class="year">2025.12-2025.12</span>　基于自适应阈值的 BM3D 去噪算法，2025 年四川省优质专业学位研究生教学案例，主持。<span data-page-node-id="wNOnJn28MLSE8WqsD0LDAa" class="todo"></span></li>
+          <li data-page-node-id="2IGNaFuN195yCtsWDmG1Ww"><span data-page-node-id="8h7jHktgQoPIlRHCnji2Us" class="year">2024.10–2027.10</span>　《并行计算导论及应用》教材建设，西南石油大学 2024 年第二批本科校级规划教材，主持。</li>
+          <li data-page-node-id="ugYf6UhxQlDCMxR5hFsw4J"><span data-page-node-id="hJLxSvFeemWFqm8hz9apLC" class="year">2023.01–2025.01</span>　面向研究生的高性能计算课程建设，西南石油大学研究生教育教学改革与研究项目，主持，已结题。</li>
+          <li data-page-node-id="WrLHFAp5PzRPYkIOC0BfFO"><span data-page-node-id="7dLdcwGjPDEoEtqGFoZh9y" class="year">2022.12–2024.12</span>　《高级数字图像处理》案例：基于自适应阈值的 BM3D 去噪算法，2022 年西南石油大学研究生案例库建设，主持，已结题。</li>
+          <li data-page-node-id="qwN65nqt4D96cIby8qUITU"><span data-page-node-id="0ZBjNjqc3EypylYr6nx1Zw" class="year">2019.12–2021.12</span>　《嵌入式软件技术基础》教学体系改革，教育部协同育人，主持，已结题。</li>
+          <li data-page-node-id="0XjDkKvxgh97opRAMVoCKz"><span data-page-node-id="2djhJXxLBl7x8YnQa0MmwS" class="year">2018.11–2020.11</span>　《嵌入式系统》教学内容与课程体系改革，教育部协同育人，主持，已结题。</li>
         </ul>
       </section>
-    </header>
-    <div class="content-bd">
-      <div class="content-left">
-        <section class="practice">
-          <div class="section-bd">
-            <!--经历:教育-->
-            <div class="item">
-              <header class="item-hd">
-                <h2 class="item-name">教育经历：</h2>
-              </header>
-              <div class="item-bd">
-                <ul class="section-content">
-                  <li>电子科技大学&nbsp;&nbsp;｜&nbsp;信号与信息处理 &nbsp;｜&nbsp;博士（2011.9 - 2015.12）</li>
-                  <li>中国科学院光电技术研究所&nbsp;｜ 信号与信息处理 &nbsp;｜&nbsp; 联合培养博士（2011.9 - 2015.12）</li>
-                  <li>湘潭大学&nbsp;｜ &nbsp;计算机软件与理论&nbsp;｜&nbsp; 硕士（2008.9 - 2011.7）</li>
-                  <li>中国科学院计算技术研究所&nbsp;｜ 嵌入式系统&nbsp;｜&nbsp;联合培养硕士（2009.7 - 2011.7）</li>
-                  <li>西南石油大学&nbsp;｜&nbsp;计算机科学与技术&nbsp;｜&nbsp;本科（2003.9 - 2007.7）</li>
-                </ul>
-              </div>
-            </div>
-            <!--经历:工作-->
-            <div class="item">
-              <header class="item-hd">
-                <h2 class="item-name">工作经历：</h2>
-              </header>
-              <div class="item-bd">
-                <ul class="section-content">
-                  <li>&nbsp;西南石油大学&nbsp;&nbsp;| &nbsp;副教授 &nbsp;（2024.1 – 至今）</li>
-                  <li>&nbsp;西南石油大学&nbsp;&nbsp;| &nbsp;讲师 &nbsp;（2017.5 – 2023.12）</li>
-                  <li>&nbsp;中国电子科技集团第三十研究所&nbsp;&nbsp;| &nbsp;工程师 &nbsp;（2016.2 – 2017.4）</li>
-                </ul>
-              </div>
-            </div>
-            <div class="item">
-              <header class="item-hd">
-                <h2 class="item-name">科研项目：</h2>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 纵向</strong> </a>
-              </header>
-              <div class="item-bd">
-                  <ul class="section-content">                      
-                <li>2026.07-2027.07&nbsp;&nbsp;&nbsp;基于单目视频的井简内壁三维重建方法研究，26KSH001，能源装备智能可视化检测技术陕西省高校工程研究中心2026年度开放基金，主持 &nbsp;</li>    
-                <li>2025.11-2027.11&nbsp;&nbsp;&nbsp;基于地面望远镜图像的扩展目标三维重建方法研究，FNLAO-25-MS-S04，自适应光学全国重点实验室，主持 &nbsp;</li>    
-                <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），2025ZD1408805-04-02，国家科技重大专项子专题，主持 &nbsp;</li>    
-                <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，2024CXJB09，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目，主持  &nbsp;</li>
-                <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，CQXNLX-2024-11，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划，项目负责人，已结题&nbsp;</li>
-                <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，ZNJW2024KFMS003，智能警务四川省重点实验室2024年度开放课题面上项目，主持 &nbsp;</li>
-                <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次波高效压制与深度学习集成研究，23XNSYSX0089，南充市-西南石油大学市校科技战略合作项目，项目负责人，已结题 &nbsp;</li>
-                 <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;激光消光层析水含量成像算法研究，IADL20220X0X，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题，主持，已结题  &nbsp;</li>
-                <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，ZNJW2023KFZD003，智能警务四川省重点实验室2023年度开放课题重点项目，项目负责人 ，已结题 &nbsp;</li>
-                 <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，PLN2022-51，油气藏地质及开发工程国家重点实验室2022年开放基金课题，主持，已结题 &nbsp;</li>
-                <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，PLN2021-21，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人，已结题 &nbsp;</li>
-                <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于联合深度学习的地震多次波压制方法研究，PLN2021-25，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人，已结题 &nbsp;</li>
-                 <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018QHZ024，2018年度西南石油大学科研“启航计划”自然科学类项目，主持 ，已结题  &nbsp;</li>
-                  </ul>
-              </div>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向 </strong> </a>
-              <div class="item-bd">
-                  <ul class="section-content">
-                 <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司，项目负责人 &nbsp;</li>
-                <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司，项目负责人 &nbsp;</li>
-                  </ul>
-              </div>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 教改 </strong> </a>
-              <div class="item-bd">
-                  <ul class="section-content">
-                <li>2025.12-2025.12&nbsp;&nbsp基于自适应阈值的BM3D去噪算法，2025年四川省优质专业学位研究生教学案例，主持 &nbsp;</li>   
-                <li>2024.10-2027.10&nbsp;&nbsp《并行计算导论及应用》教材建设，西南石油大学2024年第二批本科校级规划教材，主持 &nbsp;</li>   
-                <li>2023.01-2025.01&nbsp;&nbsp面向研究生的高性能计算课程建设，西南石油大学研究生教育教学改革与研究项目，主持，已结题 &nbsp;</li> 
-                <li>2022.12-2024.12&nbsp;&nbsp《高级数字图像处理》案例：基于自适应阈值的BM3D去噪算法，2022年西南石油大学研究生案例库建设，主持，已结题 &nbsp;</li>
-                <li>2019.12-2021.12&nbsp;&nbsp《嵌入式软件技术基础》教学体系改革，教育部协同育人，主持，已结题 &nbsp;</li>
-                <li>2018.11-2020.11&nbsp;&nbsp《嵌入式系统》教学内容与课程体系改革，教育部协同育人，主持，已结题&nbsp;</li>                 
-                  </ul>
-              </div>
-          </div>
-        <div class="item">
-              <header class="item-hd">
-                <h2 class="item-name">科研成果：</h2>
-              </header>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
-            <div class="item-bd">
-                  <ul class="section-content">
-                 <li>Jiajun He, Quan Zhang.Design and Implementation of High-Performance 2D FFT Algorithms for AMD Multicore[C].CCF HPC China 2026, ShenZhen,2026.10.17.(通讯作者)&nbsp;</li>                    
-                 <li>田瀚文,鲍华,高国庆,杨先凤,张全.强湍流下相位差法波前探测的数值稳定性研究[J].应用光学,1-21[2026-11-16].https://link.cnki.net/urlid/61.1171.O4.20261113.1405.002.(网络首发中文核心，通讯作者)&nbsp;</li> 
-                 <li>Quan Zhang,Shihao Wu,Guoqing Gao,et al.CDGS:ConvNeXt-enhanced and depth prior-guided single-view 3D Gaussian splatting[J]. Displays,2027,Vol.96: 103715.(SCI 2区)&nbsp;</li> 
-                 <li>Liu Yangyi,Guo Lingling, Zhang Quan,et al.GeoP2M-Speed:A Geometry-Aware Pixel-to-Metric Transformation Framework for Roadside Monocular Vehicle Speed Estimation[J]. ELECTRONICS,2026,Vol.15(20).(SCI 3区,通讯作者)&nbsp;</li>                      
-                 <li>Quan Zhang, Lingling Guo,et al.DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J].IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.(SCI 3区)&nbsp;</li> 
-                 <li>Quan Zhang, Yangchao Liu,et al.Free surface multiple suppression based on improved Uformer networkg[J].Journal of Applied Geophysics,252,2026,106376.(SCI 3区)&nbsp;</li> 
-                <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
-                <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
-                <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
-                <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
-                <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
-                <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
-                <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
-                <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.DOI:10.13382/j.jemi.B2508311.(EI,中文核心)&nbsp;</li> 
-                <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,2026,66(7):1211-1220.DOI:10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
-                <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
-                <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
-                <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
-                <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
-                <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
-                <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
-                <li>张全,吕晓雨,雷芩,等.基于改进pix2pix GAN的多次波压制算法[J].石油地球物理勘探,2024,59(04):664-674 (EI)&nbsp;</li>
-                <li>张全,刘田甜,杨亮,等.基于人体关键点的吸烟打电话检测[J].计算机应用与软件,1-10. (网络首发 中文核心)&nbsp;</li>
-                <li>Gao G, Yang L, Zhang Q,et al.ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures[J].Remote Sensing, 2023, 15(23). (SCI)&nbsp;</li>
-                <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
-                <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
-                <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)&nbsp;</li>
-                <li> Lei Zhao, Quan Zhang, Bo Peng, Liang Yang, "Real-time object detector for low-end devices," J. Electron. Imaging 31(1), 013016 (2022). (SCI，通信作者)&nbsp;</li>
-                <li>Zhang Quan, Bao Hua, Rao Changhui, Redundancy computation analysis and implementation of phase diversity based on GPU, Optical Review ,2015, 22(5): 741-752(SCI)&nbsp;</li>
-                <li>Zhang Quan, Bao Hua, Rao Changhui, A fast calculation method of optical transfer function using GPU parallel computation, Optical Review, 2015, 22(6): 903-910(SCI)&nbsp;</li>
-                <li>张全, 雷芩, 林柏栎, 彭博, 刘书妍. 基于贪婪—快速迭代收缩阈值的Radon变换及其在多次波压制中的应用 2022 57 (6):1332-1341 (EI)&nbsp;</li>
-                <li>张全, 张杰明, 雷芩, 彭博, 刘书妍. 基于CUDA的地震信号频率补偿并行算法[J].石油地球物理勘探, 2022, 57(05): 1241-1249 (EI)&nbsp;</li>
-                <li>张全，林柏栎，杨勃，彭博，张伟，涂然．CPU-GPU 异构平台的抛物线 Radon 变换并行算法. 石油地球物理勘探，2020, 55(6): 1263-1270 (EI)&nbsp;</li>
-                <li>Quan Zhang, Hua Bao, Changhui Rao, Zhenming Peng: GPU-based parallel ptimization implement of phase diversity, International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition,Beijing, P.R. China, 2014 (EI)&nbsp;</li>
-                <li>张全,张伟,杨先凤等.融合YOLOv5-ResNet级联网络的烟火检测方法[J].安全与环境学报,2023,23(02):397-405(CSCD核心)&nbsp;</li>
-                <li>张全,王一品,张伟等.地震波能量补偿的并行反Q滤波方法研究[J].西南石油大学学报(自然科学版),2023,45(01):24-32.（CSCD核心）&nbsp;</li>
-                <li>张全，林柏栎，彭博.基于 CUDA 的地震相干体并行算法[J].地质与勘探,2020,56(1):147-153 (CSCD核心)&nbsp;</li>
-                <li>陈鹏程, 向伟铭, 张全. 基于CUDA的地震倾角方位角并行算法[J]. 计算机应用, 2019, 39(S2):175-178. (CSCD核心，通信作者)&nbsp;</li>
-                <li>张全，鲍华，饶长辉，彭真明，相位差算法在多GPU平台上的并行化实现，光电工程，2016，(03)：66~72(CSCD核心)&nbsp;</li>
-                <li>张全，鲍华，饶长辉，彭真明，GPU平台二维快速傅里叶变换算法实现及应用，光电工程，2016，(02)：69~75(CSCD核心)&nbsp;</li>
-                <li>张全，朱珍民，罗海勇，泛在设备互联桥接器设计及实现，计算机工程，2011，(20):230~232( CSCD核心)&nbsp;</li>
-                  </ul>
-            </div>
-                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
-            <div class="item-bd">
-                  <ul class="section-content">
-                <li>张全;郭羚羚;吴世豪;马琪;彭博.一种融合注意力与解耦记忆学习的车辆多目标跟踪方法(授权号：2026107037688) &nbsp;</li>
-                <li>张全,刘田甜,段昶,彭博,李艳.一种应用于雾天车辆重识别的特征融合方法(授权号：2025103064198) &nbsp;</li> 
-                <li>张全,赵红利,魏明强,彭博,李艳.一种利用水力压裂水击信号确定进液点位置的方法(授权号：2025106422768) &nbsp;</li> 
-                <li>张全,杨鑫海,彭博,周文俊,陈曦宇,杨可,岳静. 一种并行模拟水力压裂裂缝扩展的方法(授权号：2025113171637) &nbsp;</li>  
-                <li>张全,杨亮,白儒,彭博，等. 一种改进的基于深度学习的晶体TEM图像物相划分方法(授权号：2023111228792) &nbsp;</li>  
-                <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法(授权号：2024118547168) &nbsp;</li>  
-                <li>张全,杨亮,汪崇民,彭博,等.一种基于局部纹理的单视图三维重建方法(授权号：2023118353581) &nbsp;</li>                     
-                <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法(授权号：2022116708151) &nbsp;</li>
-                <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法(授权号：2021102070920) &nbsp;</li>
-                  </ul>
-            </div>
-        </div>
-        <header class="item-hd">
-            <h2 class="item-name">学科竞赛（指导教师）：</h2>
-        </header>
-        <ul class="section-content">
-            <li>2026年第十三届并行应用挑战赛（PAC 2026）全国三等奖（陈昆、徐伊曼、张涵熙、况越） &nbsp;</li>
-            <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（叶虹羽、张蔚豪、廖宇昊、张振毅） &nbsp;</li>
-            <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（张明泽、吴沛伦、江益川、王帅） &nbsp;</li>
-            <li>2026年ASC世界大学生超级计算机竞赛二等奖（张蔚豪、张振毅、杨嘉苓、何广勇、孔星权） &nbsp;</li>
-            <li>2026年ASC世界大学生超级计算机竞赛二等奖（张涵熙、徐伊曼、况越、高建瓴、白梓彤） &nbsp;</li>
-            <li>2026年ASC世界大学生超级计算机竞赛二等奖（刘潭、何佳俊、曹成湘、吴雨宸） &nbsp;</li>             
-            <li>2025年海洋计算挑战赛（MCC）总决赛全国三等奖（况越、队员、白梓彤、梁建新、徐伊曼） &nbsp;</li>
-            <li>2025年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国优胜奖（白梓彤、张涵熙、何俊霄） &nbsp;</li>
-            <li>2025年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国优胜奖（张振毅、张冰鑫、高建瓴、周子翔） &nbsp;</li>
-            <li>2025年中国青年科技创新“揭榜挂帅”擂台赛新一代信息技术领域主擂台赛全国优胜奖（徐伊曼、况越、刘潘毅、张蔚豪、黄熙） &nbsp;</li>
-            <li>2025年ASC世界大学生超级计算机竞赛二等奖（杨嘉苓、郑云鹤、廖洪樟、何广勇、关忠林） &nbsp;</li>
-            <li>2024年ASC世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、李锡涛） &nbsp;</li>
-            <li>2024年全国大学生计算机系统能力大赛（先导杯）优胜奖（何广勇、孔星权、刘潘毅） &nbsp;</li>
-            <li>2024年全国大学生计算机系统能力大赛（先导杯）优胜奖（郑云鹤、关忠林、梁建新、王政涵） &nbsp;</li>
-            <li>2024年全国海洋计算挑战赛三等奖（丁致宇、何广勇、刘潘毅、周子翔） &nbsp;</li>
-            <li>2023年“神威 国实杯”第七届国产CPU并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林） &nbsp;</li>
-            <li>2022年“神威 国实杯”第六届国产CPU并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥） &nbsp;</li>
-            <li>2022年（第15届）中国大学生计算机设计大赛全国一等奖（邓平、冉杰、颜宇杰） &nbsp;</li>
-            <li>2020年“神威”第四届国产CPU并行应用挑战赛唯一金奖（马聪、张鸿宇、蒋讯、涂然） &nbsp;</li>
-            <li>2019年第十五届“挑战杯”四川省大学生课外学术科技作品竞赛决赛一等奖（靳梓宁、宋雨柯、杨伊帆、卢洪波） &nbsp;</li>
-            <li>2018年“全国大学生计算机设计大赛全国决赛二等奖（李浩杰、靳梓宁、刘放平） &nbsp;</li>
+
+      <section data-page-node-id="bzdm9G0WTfOgMwT7OqiMCg" class="card" id="publications">
+        <h2 data-page-node-id="HixUcIdcYABBCggvCHuO4r">科研成果 · 论文</h2>
+        <h3 data-page-node-id="fKLaw3EVoY6nTKJtiHrmTi">2026–2027 及待刊</h3>
+        <ul data-page-node-id="05RDSReVDv9Rp0WgM0BVcL">
+          <li data-page-node-id="XQ3J2Wng5h6EVLR1d0YWLb">Jiajun He, Quan Zhang. Design and Implementation of High-Performance 2D FFT Algorithms for AMD Multicore[C]. CCF HPC China 2026, ShenZhen, 2026.10.17.（通讯作者）</li>
+          <li data-page-node-id="BPMcC2K5eonDQe2QOqBRc4">田瀚文, 鲍华, 高国庆, 杨先凤, 张全. 强湍流下相位差法波前探测的数值稳定性研究[J]. 应用光学, 1-21[2026-11-16]. https://link.cnki.net/urlid/61.1171.O4.20261113.1405.002.（网络首发中文核心，通讯作者）</li>
+          <li data-page-node-id="tbJDtSaHtEJEFIAgHaQNsX">Quan Zhang, Shihao Wu, Guoqing Gao, et al. CDGS: ConvNeXt-enhanced and depth prior-guided single-view 3D Gaussian splatting[J]. Displays, 2027, Vol.96: 103715.（SCI 2 区）</li>
+          <li data-page-node-id="UOHL5nil0nPubwFYbKoX93">Liu Yangyi, Guo Lingling, Zhang Quan, et al. GeoP2M-Speed: A Geometry-Aware Pixel-to-Metric Transformation Framework for Roadside Monocular Vehicle Speed Estimation[J]. ELECTRONICS, 2026, Vol.15(20).（SCI 3 区，通讯作者）</li>
+          <li data-page-node-id="GIBhxlPzDYSA1n1xVu0D9l">Quan Zhang, Lingling Guo, et al. DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J]. IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.（SCI 3 区）</li>
+          <li data-page-node-id="GwZo8PgmFWZbX1TNXB64Id">Quan Zhang, Yangchao Liu, et al. Free surface multiple suppression based on improved Uformer network[J]. Journal of Applied Geophysics, 252, 2026, 106376.（SCI 3 区）</li>
+          <li data-page-node-id="bNnjvlr1FvoqewICWnP9X5"></li>
+          <li data-page-node-id="e2svcVeEWDhUyGY1Ql9ZrG">张全, 邓君, 高国庆, 鲍华. 融合卷积局部特征与 Transformer 全局注意力的相位复原方法[J]. 光学学报, 2026, 录用.（中文核心）</li>
+          <li data-page-node-id="CJx9R8yHHGp8N3qACP3QBH">张全, 杨鑫海, 等. 水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J]. 计算机工程与科学, 1-12, 录用.（中文核心）</li>
+          <li data-page-node-id="mVxgMNm9Wi4qTIEneczRxI">李艳, 吕晓雨, 刘阳超, 张全, 等. 基于混合优化与改进的 U-Net 震源分离方法[J]. 西南石油大学学报(自然科学版), 2026, 48(3): 39-52.（CSCD，中文核心，通讯作者）</li>
+          <li data-page-node-id="dKsXOiorTTQQgkRxg1Vfnw">张全, 周甯, 刘洋毅, 等. 先验引导的多尺度车道线检测网络[J]. 电子测量与仪器学报, 2026, 40(4): 236-244. DOI:10.13382/j.jemi.B2508434.（EI，中文核心）</li>
+          <li data-page-node-id="WniRBDecHoxsXpEmp1TEKQ">赵红利, 张全, 魏明强, 等. 水力压裂停泵水击信号处理与进液点定位方法[J]. 水动力学研究与进展 A 辑, 2026, 41(3): 459-470. DOI:10.16076/j.cnki.cjhd.2026.03.014.（CSCD，中文核心，通讯作者）</li>
+          <li data-page-node-id="96zDtlEO388QBDPRKA0SQX">张全, 刘田甜, 刘洋毅, 等. 融合多尺度特征的雾天车辆重识别算法[J]. 电子测量与仪器学报, 2026, 40(1): 269-278. DOI:10.13382/j.jemi.B2508260.（EI，中文核心）</li>
+          <li data-page-node-id="uAZ3qui7pxslpoYiKGYIIR">张全, 王顺, 刘洋毅, 等. 帧级纹理复用的 AVS3 划分和帧内预测算法[J]. 电讯技术, 2026, 66(7): 1211-1220. DOI:10.20079/j.issn.1001-893x.250111002.（中文核心）</li>
         </ul>
+        <h3 data-page-node-id="akZWRgOErS5GXGBC91J66G">2023–2025</h3>
+        <ul data-page-node-id="YZNlLd9Nwag3tcPDgS4zPU">
+          <li data-page-node-id="b2YYMKRqFGzxa0YZ5l5hCk">张全, 周甯, 刘洋毅, 等. 基于特征融合与行锚点分类的车道线快速检测算法[J]. 电子测量与仪器学报, 2025, 39(12): 188-196. DOI:10.13382/j.jemi.B2508311.（EI，中文核心）</li>
+          <li data-page-node-id="u6U4GPnFEayPoMDGEWWKCA">张全, 王顺, 刘洋毅, 等. 基于最小 CU 代价的 AVS3 帧内预测并行算法[J]. 电信科学, 2025, 41(2): 57-67.（中文核心）</li>
+          <li data-page-node-id="r8F9fqoKkmNINM46gTh3Af">Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li. Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel[C]. Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025). https://doi.org/10.1117/12.3058913.（EI）</li>
+          <li data-page-node-id="TnNXbS5SKVyiCE6OTOmE4a">Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li. Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels[C]. Proc. SPIE 13549, ICOMD 2024, 135491S (10 March 2025). https://doi.org/10.1117/12.3058906.（EI）</li>
+          <li data-page-node-id="w9yp5jKrHrGYVX9zUkdHHr">Zhang Q, Yang L, Bai R, et al. Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J]. Micron, 184, 2024.（SCI）</li>
+          <li data-page-node-id="LJHPaZia0sQpguBp1lyrCG">Zhang Q, Lv X Y, Lei Q, et al. Seismic multiple attenuation based on improved U-Net[J]. Applied Geophysics, 2024, 21(4): 680-696.（SCI）</li>
+          <li data-page-node-id="wQ38hW3Vgd6KbLrCuJfMGS">Quan Zhang, Chongmin Wang, et al. ITIR-Net: single-view 3D reconstruction by fusing features of image texture and implicit representation[J]. Journal of Electronic Imaging, 33(6), 2024.（SCI）</li>
+          <li data-page-node-id="ObOiuGYx0S657zdbaPnS5D">张全, 吕晓雨, 雷芩, 等. 基于改进 pix2pix GAN 的多次波压制算法[J]. 石油地球物理勘探, 2024, 59(04): 664-674.（EI）</li>
+          <li data-page-node-id="iSAdqfFH8MBbf0WI6iqCMT">张全, 刘田甜, 杨亮, 等. 基于人体关键点的吸烟打电话检测[J]. 计算机应用与软件, 1-10.（网络首发，中文核心）</li>
+          <li data-page-node-id="m53vLFWnnkm2DDOuJnpm9r">Gao G, Yang L, Zhang Q, et al. ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures[J]. Remote Sensing, 2023, 15(23).（SCI）</li>
+          <li data-page-node-id="peN6KFCwfQK9W0pd1hgsIy">Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023.（SCI）</li>
+          <li data-page-node-id="PbSStbDdvnrFbaVFfpBmGN">张全, 王一品, 张伟, 等. 地震波能量补偿的并行反 Q 滤波方法研究[J]. 西南石油大学学报(自然科学版), 2023, 45(01): 24-32.（CSCD 核心）</li>
+          <li data-page-node-id="KzNxIZS25E8FeZpIFqprOc">张全, 张伟, 杨先凤, 等. 融合 YOLOv5-ResNet 级联网络的烟火检测方法[J]. 安全与环境学报, 2023, 23(02): 397-405.（CSCD 核心）</li>
+        </ul>
+        <h3 data-page-node-id="aMZ5vmckFEJH50vZvY4j1H">2022 及以前</h3>
+        <ul data-page-node-id="bsvJ89RRL9kQpW64AOeqxG">
+          <li data-page-node-id="JmGWGDZhS39M50kF4wgAph">Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu. Faster object detector for drone-captured images[J]. J. Electron. Imaging, 31(4), 043033 (2022).（SCI，通信作者）</li>
+          <li data-page-node-id="ZhMsKWkXWGQdlHOrRYVR2w">Lei Zhao, Quan Zhang, Bo Peng, Liang Yang. Real-time object detector for low-end devices[J]. J. Electron. Imaging, 31(1), 013016 (2022).（SCI，通信作者）</li>
+          <li data-page-node-id="siK8OiHAzu4bs7sDsQbFCO">Zhang Q, Yawen X U, Zhou J, et al. Neural network-based repairing skull defects: an initial assessment of performance and feasibility[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05).（SCI）</li>
+          <li data-page-node-id="zLYuxfy7aAtEW4AyBSV5ua">张全, 雷芩, 林柏栎, 彭博, 刘书妍. 基于贪婪—快速迭代收缩阈值的 Radon 变换及其在多次波压制中的应用[J]. 石油地球物理勘探, 2022, 57(6): 1332-1341.（EI）</li>
+          <li data-page-node-id="dK3HNtwoYjiXVFFkN8UcJ2">张全, 张杰明, 雷芩, 彭博, 刘书妍. 基于 CUDA 的地震信号频率补偿并行算法[J]. 石油地球物理勘探, 2022, 57(05): 1241-1249.（EI）</li>
+          <li data-page-node-id="LRJIGQhsfrhYXuVq6DCYON">Quan Zhang, Hua Bao, Changhui Rao, Zhenming Peng. GPU-based parallel optimization implement of phase diversity[C]. International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition, Beijing, P.R. China, 2014.（EI）</li>
+          <li data-page-node-id="YCWlPCeet9LD39YkrkfIxW">张全, 林柏栎, 杨勃, 彭博, 张伟, 涂然. CPU-GPU 异构平台的抛物线 Radon 变换并行算法[J]. 石油地球物理勘探, 2020, 55(6): 1263-1270.（EI）</li>
+          <li data-page-node-id="lkb2WViizhue7BXgRvjCSZ">张全, 林柏栎, 彭博. 基于 CUDA 的地震相干体并行算法[J]. 地质与勘探, 2020, 56(1): 147-153.（CSCD 核心）</li>
+          <li data-page-node-id="NiYDGwIlElZE9UK4qkaJQU">陈鹏程, 向伟铭, 张全. 基于 CUDA 的地震倾角方位角并行算法[J]. 计算机应用, 2019, 39(S2): 175-178.（CSCD 核心，通信作者）</li>
+          <li data-page-node-id="8gcRhOarA3cpyHumArhkHf">张全, 鲍华, 饶长辉, 彭真明. 相位差算法在多 GPU 平台上的并行化实现[J]. 光电工程, 2016, (03): 66-72.（CSCD 核心）</li>
+          <li data-page-node-id="rNCAjTGTLG4zbcpNnxoH8Y">张全, 鲍华, 饶长辉, 彭真明. GPU 平台二维快速傅里叶变换算法实现及应用[J]. 光电工程, 2016, (02): 69-75.（CSCD 核心）</li>
+          <li data-page-node-id="WRzDiNslhKB0CfD6Jofovv">Quan Zhang, Hua Bao, Changhui Rao. Redundancy computation analysis and implementation of phase diversity based on GPU[J]. Optical Review, 2015, 22(5): 741-752.（SCI）</li>
+          <li data-page-node-id="kFgLnY50ERLBxHbTPiQorY">Quan Zhang, Hua Bao, Changhui Rao. A fast calculation method of optical transfer function using GPU parallel computation[J]. Optical Review, 2015, 22(6): 903-910.（SCI）</li>
+          <li data-page-node-id="tGw0CQXghvryC1ZyxzxZQd">张全, 朱珍民, 罗海勇. 泛在设备互联桥接器设计及实现[J]. 计算机工程, 2011, (20): 230-232.（CSCD 核心）</li>
+        </ul>
+      </section>
+
+      <section data-page-node-id="ypcBElokIaPnVRURBwdn2g" class="card" id="patents">
+        <h2 data-page-node-id="6BXhsU9OCpFVRJlgbiZEdz">科研成果 · 发明专利</h2>
+        <ul data-page-node-id="tkOKGx7RiGn3be3zVDGHNr">
+          <li data-page-node-id="EXEDe8GkGocack4sMOkePG">张全; 郭羚羚; 吴世豪; 马琪; 彭博. 一种融合注意力与解耦记忆学习的车辆多目标跟踪方法（授权号：2026107037688）</li>
+          <li data-page-node-id="ifw79216L9Y5Fh749zYcxx">张全, 刘田甜, 段昶, 彭博, 李艳. 一种应用于雾天车辆重识别的特征融合方法（授权号：2025103064198）</li>
+          <li data-page-node-id="KMrC8ApEpEQAPbhFqRbvGq">张全, 赵红利, 魏明强, 彭博, 李艳. 一种利用水力压裂水击信号确定进液点位置的方法（授权号：2025106422768）</li>
+          <li data-page-node-id="5gDMLkm8iFFbmjj5gr4Zoy">张全, 杨鑫海, 彭博, 周文俊, 陈曦宇, 杨可, 岳静. 一种并行模拟水力压裂裂缝扩展的方法（授权号：2025113171637）</li>
+          <li data-page-node-id="M7TQfMrbIGtTaNBCXfueKS">张全, 杨亮, 白儒, 彭博, 等. 一种改进的基于深度学习的晶体 TEM 图像物相划分方法（授权号：2023111228792）</li>
+          <li data-page-node-id="8hjex1eM2qgFzau7yq1aBy">岳静, 吴世豪, 汪崇民, 张全, 彭博, 杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法（授权号：2024118547168）</li>
+          <li data-page-node-id="kNFKrbwyYHg2WmfsQQpRaA">张全, 杨亮, 汪崇民, 彭博, 等. 一种基于局部纹理的单视图三维重建方法（授权号：2023118353581）</li>
+          <li data-page-node-id="UxC4aQAUBehHuZ3sEGrPWv">张全, 白儒, 彭博, 周文俊, 王一帆. 一种基于深度学习的晶体 TEM 图像物相区域划分方法（授权号：2022116708151）</li>
+          <li data-page-node-id="ypYGb7NDHaCxR7oFEWNjE1">张全, 赵磊, 彭博, 周文俊, 张伟, 涂然. 一种实时吸烟打电话识别方法（授权号：2021102070920）</li>
+        </ul>
+        
+      </section>
+
+      <section data-page-node-id="aFazE1c6kAQkfJb8TwJyuc" class="card" id="awards">
+        <h2 data-page-node-id="FO1XIjTlLOgf4Kh0H39mu3">学科竞赛（指导教师）</h2>
+        <h3 data-page-node-id="xpNQ1ZzkEzu1bFlYNqc3jk">2026</h3>
+        <ul data-page-node-id="DzBQwbULoiePxfQfcBqoHc">
+          <li data-page-node-id="Y0ijvYVMezMkCzGWJlJbNQ">第十三届并行应用挑战赛（PAC 2026）全国三等奖（陈昆、徐伊曼、张涵熙、况越）</li>
+          <li data-page-node-id="Ma7XxwRquTJG6q0HHIFCm5">计算机系统能力大赛—智能计算创新设计赛（先导杯）全国三等奖（叶虹羽、张蔚豪、廖宇昊、张振毅）</li>
+          <li data-page-node-id="9J6gMSEWd5c0jgujb7wQsF">计算机系统能力大赛—智能计算创新设计赛（先导杯）全国三等奖（张明泽、吴沛伦、江益川、王帅）</li>
+          <li data-page-node-id="NqLHujFABtfoywpWOkivwN">ASC 世界大学生超级计算机竞赛二等奖（张蔚豪、张振毅、杨嘉苓、何广勇、孔星权）</li>
+          <li data-page-node-id="csyAv6s9ie6j7qAIHAZIw7">ASC 世界大学生超级计算机竞赛二等奖（张涵熙、徐伊曼、况越、高建瓴、白梓彤）</li>
+          <li data-page-node-id="bV0rC5NPiyZyVDRmAnDRH6">ASC 世界大学生超级计算机竞赛二等奖（刘潭、何佳俊、曹成湘、吴雨宸）</li>
+        </ul>
+        <h3 data-page-node-id="MImibpyn073GEBKnJHM3RU">2025</h3>
+        <ul data-page-node-id="FEus6WEYsnZIHEDpjw8uzx">
+          <li data-page-node-id="Q2Gf9hqyHkh75mPNyGMvzf">海洋计算挑战赛（MCC）总决赛全国三等奖（况越、白梓彤、梁建新、徐伊曼）</li>
+          <li data-page-node-id="8p9Wr6y70xDMbXWXdYk5kr">计算机系统能力大赛—智能计算创新设计赛（先导杯）全国优胜奖（白梓彤、张涵熙、何俊霄）</li>
+          <li data-page-node-id="qdjQiLtcALi2mi0Ui8dC8s">计算机系统能力大赛—智能计算创新设计赛（先导杯）全国优胜奖（张振毅、张冰鑫、高建瓴、周子翔）</li>
+          <li data-page-node-id="SkDnQKR44o7adiI2rstx7d">中国青年科技创新"揭榜挂帅"擂台赛新一代信息技术领域主擂台赛全国优胜奖（徐伊曼、况越、刘潘毅、张蔚豪、黄熙）</li>
+          <li data-page-node-id="2CZLJ5rCDxH6nOIXWqFezd">ASC 世界大学生超级计算机竞赛二等奖（杨嘉苓、郑云鹤、廖洪樟、何广勇、关忠林）</li>
+        </ul>
+        <h3 data-page-node-id="PrHBi3Thmko8IeTsczP4b0">2024</h3>
+        <ul data-page-node-id="iYECE73IKKG3KNEyJnrlqR">
+          <li data-page-node-id="o3RAArCg2FQqLB0ECQSwad">ASC 世界大学生超级计算机竞赛一等奖及超级团队奖（张强、赵洪扬、杨嘉苓、廖洪樟、李锡涛）</li>
+          <li data-page-node-id="fCP8cNEvGt6UiaZ1vxzQK3">全国大学生计算机系统能力大赛（先导杯）优胜奖（何广勇、孔星权、刘潘毅）</li>
+          <li data-page-node-id="EMZ6AWwuiQAPAS0pSqrLFs">全国大学生计算机系统能力大赛（先导杯）优胜奖（郑云鹤、关忠林、梁建新、王政涵）</li>
+          <li data-page-node-id="GFliE41yxFYwMFp3CAWJBM">全国海洋计算挑战赛三等奖（丁致宇、何广勇、刘潘毅、周子翔）</li>
+        </ul>
+        <h3 data-page-node-id="i6rGBOsXaamkBWne93XXP6">2023 及以前</h3>
+        <ul data-page-node-id="7yF2moZitjJRhemy54RYFP">
+          <li data-page-node-id="HjtrQ6aIRJ7OM6m6jTBH12">2023 年"神威 国实杯"第七届国产 CPU 并行应用挑战赛三等奖（廖洪樟、周广森、郑云鹤、关忠林）</li>
+          <li data-page-node-id="IROyxke4Lm92gTCslThnC0">2022 年"神威 国实杯"第六届国产 CPU 并行应用挑战赛三等奖（周昕航、赵洪杰、高士其、贾俊祥）</li>
+          <li data-page-node-id="AeBEuUGa5q71qHBH6yMXQY">2022 年（第 15 届）中国大学生计算机设计大赛全国一等奖（邓平、冉杰、颜宇杰）</li>
+          <li data-page-node-id="ga47SionQJ0xAWccXq3bW3">2020 年"神威"第四届国产 CPU 并行应用挑战赛唯一金奖（马聪、张鸿宇、蒋讯、涂然）</li>
+          <li data-page-node-id="Qlc6lHDJaFw573Bszu2epQ">2019 年第十五届"挑战杯"四川省大学生课外学术科技作品竞赛决赛一等奖（靳梓宁、宋雨柯、杨伊帆、卢洪波）</li>
+          <li data-page-node-id="3NFH4iBPFDlm4i2xHKEIgQ">2018 年全国大学生计算机设计大赛全国决赛二等奖（李浩杰、靳梓宁、刘放平）</li>
+        </ul>
+      </section>
+
+      <section data-page-node-id="hdjuZUDiJ2iHSeQABygpGn" class="card" id="opensource">
+        <h2 data-page-node-id="yXp4BnJ6vAPeuVrKqVaOrc">开源与学术服务</h2>
+        <p data-page-node-id="Tqr6dtcXG1kMBHvtQECEMa">当前提供的材料中未包含 GitHub 主页、开源仓库、代码贡献记录、审稿或学术兼职信息，因此本栏目暂不填写具体内容。</p>
+        <ul data-page-node-id="WQNJMR1m8YgmPkBtTPOocD">
+          <li data-page-node-id="tQlzBGbbsAiIX6iDwFrSTL">GitHub 用户名 / 主页：<span data-page-node-id="HM0Ip36mm8HVj0agkiEIXg" class="todo">【待补】</span></li>
+          <li data-page-node-id="qPwpjCGPVOq1vcAqJVx5Zw">代表性开源仓库（建议 2–3 个，附一句话说明用途与影响力）：<span data-page-node-id="jKOnnxd0E2mEjbRwcoWSva" class="todo">【待补】</span></li>
+          <li data-page-node-id="53YdJFrPptSkqg3WcKUAuO">期刊 / 会议审稿、学术组织兼职：<span data-page-node-id="IH0KvqgbWEfXMIFQLGXm8X" class="todo">【待补】</span></li>
+        </ul>
+      </section>
+
+    </div>
+
+    <aside data-page-node-id="YiLuF0vePWYtTKRAfSdzHP" class="content-right">
+      <section data-page-node-id="wvhrhT5iiHL9yjPdnG0BUs" class="card side">
+        <h2 data-page-node-id="oXqWjcS4CXhFPo3pwWegaA">教育经历</h2>
+        <ul data-page-node-id="nqqaYfRgtHyU84pnR4eGkD">
+          <li data-page-node-id="8lE2AI5h1k0LcNlpyOE6pq">电子科技大学｜信号与信息处理｜博士（2011.9–2015.12）</li>
+          <li data-page-node-id="ut9UJsR30vgD4VTysC4TCG">中国科学院光电技术研究所｜信号与信息处理｜联合培养博士（2011.9–2015.12）</li>
+          <li data-page-node-id="msiT3xymzr4NI6zZUV8GTH">湘潭大学｜计算机软件与理论｜硕士（2008.9–2011.7）</li>
+          <li data-page-node-id="oc6StTKPmusCEd7Xq4E6CR">中国科学院计算技术研究所｜嵌入式系统｜联合培养硕士（2009.7–2011.7）</li>
+          <li data-page-node-id="90eB2smQYpasVAVVjIYGkR">西南石油大学｜计算机科学与技术｜本科（2003.9–2007.7）</li>
+        </ul>
+      </section>
+      <section data-page-node-id="BLUml3GcXbXy7kAi7ScDh1" class="card side">
+        <h2 data-page-node-id="rc1uK6WkpVvpvrrDzQTEmK">工作经历</h2>
+        <ul data-page-node-id="CAXE68WcumDzWRgc9EyW3X">
+          <li data-page-node-id="gFxh9zr9NdTZNlSBvSCxTQ">西南石油大学｜副教授（2024.1–至今）</li>
+          <li data-page-node-id="ibRcXXHqF1AIbnp7VLiFaP">西南石油大学｜讲师（2017.5–2023.12）</li>
+          <li data-page-node-id="0zhVXKQTIuYVs7fFxiPSB6">中国电子科技集团第三十研究所｜工程师（2016.2–2017.4）</li>
+        </ul>
+      </section>
+      <section data-page-node-id="4PZgjxqMcawfR9KH1JUE5z" class="card side">
+        <h2 data-page-node-id="rgiAdFr7KdezhQgY0cCRvE">快速索引</h2>
+        <ul data-page-node-id="8kkRwPaav7mbEUflAREDpv">
+          <li data-page-node-id="sRIIqTWpK4zutSFLH0KGOH"><a data-page-node-id="UKYu60d2R4mYhASL8iz61j" href="#highlights">代表工作亮点</a></li>
+          <li data-page-node-id="oHgIWD2XvRM0xR9DvvKv8j"><a data-page-node-id="HGZ5l9uX8ENp5qEz3rrTwb" href="#skills">技能与专长</a></li>
+          <li data-page-node-id="mXAFCLye560y6LpI2zVsxg"><a data-page-node-id="N9iivFDR898QpjMNyWsExi" href="#projects">科研项目</a></li>
+          <li data-page-node-id="89ZQEIufH7OoAJ58uWRNCE"><a data-page-node-id="a5XoGzLknmHPAJFkhE9SFG" href="#publications">论文</a></li>
+          <li data-page-node-id="OiHfcg7tSN9hz2mPc5yYH0"><a data-page-node-id="MKiUcpSyMe2IpmC8y4i0nO" href="#patents">发明专利</a></li>
+          <li data-page-node-id="doUikoeDGoRL5WDMmWr0wE"><a data-page-node-id="jzHqrr62jDQASNZzMSWNxj" href="#awards">学科竞赛</a></li>
+          <li data-page-node-id="2DYfEKVFaUYht8hCF2AeqF"><a data-page-node-id="UFgDaSG3rsMM81Ys50J5tU" href="#opensource">开源与学术服务</a></li>
+        </ul>
+      </section>
+    </aside>
+  </div>
+</main>
+
+
+</body></html>
