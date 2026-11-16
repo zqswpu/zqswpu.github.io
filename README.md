@@ -90,22 +90,26 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
+                 <li>Jiajun He, Quan Zhang.Design and Implementation of High-Performance 2D FFT Algorithms for AMD Multicore[C].CCF HPC China 2026, ShenZhen,2026.10.17.(通讯作者)&nbsp;</li>                    
+                 <li>田瀚文,鲍华,高国庆,杨先凤,张全.强湍流下相位差法波前探测的数值稳定性研究[J].应用光学,1-21[2026-11-16].https://link.cnki.net/urlid/61.1171.O4.20261113.1405.002.(网络首发中文核心，通讯作者)&nbsp;</li> 
+                 <li>Quan Zhang,Shihao Wu,Guoqing Gao,et al.CDGS:ConvNeXt-enhanced and depth prior-guided single-view 3D Gaussian splatting[J]. Displays,2027,Vol.96: 103715.(SCI 2区)&nbsp;</li> 
+                 <li>Liu Yangyi,Guo Lingling, Zhang Quan,et al.GeoP2M-Speed:A Geometry-Aware Pixel-to-Metric Transformation Framework for Roadside Monocular Vehicle Speed Estimation[J]. ELECTRONICS,2026,Vol.15(20).(SCI 3区,通讯作者)&nbsp;</li>                      
                  <li>Quan Zhang, Lingling Guo,et al.DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J].IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.(SCI 3区)&nbsp;</li> 
                  <li>Quan Zhang, Yangchao Liu,et al.Free surface multiple suppression based on improved Uformer networkg[J].Journal of Applied Geophysics,252,2026,106376.(SCI 3区)&nbsp;</li> 
                 <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
-                 <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
+                <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
                 <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
-                 <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
+                <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
                 <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
-                 <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
+                <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
                 <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
                 <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.DOI:10.13382/j.jemi.B2508311.(EI,中文核心)&nbsp;</li> 
                 <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,2026,66(7):1211-1220.DOI:10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
-                 <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
-                 <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
-                 <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
-                 <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
-                 <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
+                <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
+                <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
+                <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
+                <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
+                <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
                 <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
                 <li>张全,吕晓雨,雷芩,等.基于改进pix2pix GAN的多次波压制算法[J].石油地球物理勘探,2024,59(04):664-674 (EI)&nbsp;</li>
                 <li>张全,刘田甜,杨亮,等.基于人体关键点的吸烟打电话检测[J].计算机应用与软件,1-10. (网络首发 中文核心)&nbsp;</li>
@@ -148,6 +152,7 @@
             <h2 class="item-name">学科竞赛（指导教师）：</h2>
         </header>
         <ul class="section-content">
+            <li>2026年第十三届并行应用挑战赛（PAC 2026）全国三等奖（陈昆、徐伊曼、张涵熙、况越） &nbsp;</li>
             <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（叶虹羽、张蔚豪、廖宇昊、张振毅） &nbsp;</li>
             <li>2026年计算机系统能力大赛-智能计算创新设计赛（先导杯）全国三等奖（张明泽、吴沛伦、江益川、王帅） &nbsp;</li>
             <li>2026年ASC世界大学生超级计算机竞赛二等奖（张蔚豪、张振毅、杨嘉苓、何广勇、孔星权） &nbsp;</li>
