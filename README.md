@@ -49,26 +49,37 @@
               </header>
               <div class="item-bd">
                   <ul class="section-content">                      
-                    <li>2026.07-2027.07&nbsp;&nbsp;&nbsp;基于单目视频的井简内壁三维重建方法研究，26KSH001，能源装备智能可视化检测技术陕西省高校工程研究中心2026年度开放基金，主持 &nbsp;</li>    
-                    <li>2025.11-2027.11&nbsp;&nbsp;&nbsp;基于地面望远镜图像的扩展目标三维重建方法研究，FNLAO-25-MS-S04，自适应光学全国重点实验室，主持 &nbsp;</li>    
-                    <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），2025ZD1408805-04-02，国家科技重大专项子专题，主持 &nbsp;</li>    
-                    <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，2024CXJB09，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目，主持  &nbsp;</li>
-                    <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，CQXNLX-2024-11，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划，项目负责人 &nbsp;</li>
-                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，ZNJW2024KFMS003，智能警务四川省重点实验室2024年度开放课题面上项目，主持  &nbsp;</li>
-                    <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次波高效压制与深度学习集成研究，23XNSYSX0089，南充市-西南石油大学市校科技战略合作项目，项目负责人 &nbsp;</li>
-                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;激光消光层析水含量成像算法研究，IADL20220X0X，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题，主持  &nbsp;</li>
-                    <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，ZNJW2023KFZD003，智能警务四川省重点实验室2023年度开放课题重点项目，项目负责人 &nbsp;</li>
-                    <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，PLN2022-51，油气藏地质及开发工程国家重点实验室2022年开放基金课题，主持  &nbsp;</li>
-                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，PLN2021-21，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人 &nbsp;</li>
-                    <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于联合深度学习的地震多次波压制方法研究，PLN2021-25，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人 &nbsp;</li>
-                    <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018QHZ024，2018年度西南石油大学科研“启航计划”自然科学类项目，主持  &nbsp;</li>
+                <li>2026.07-2027.07&nbsp;&nbsp;&nbsp;基于单目视频的井简内壁三维重建方法研究，26KSH001，能源装备智能可视化检测技术陕西省高校工程研究中心2026年度开放基金，主持 &nbsp;</li>    
+                <li>2025.11-2027.11&nbsp;&nbsp;&nbsp;基于地面望远镜图像的扩展目标三维重建方法研究，FNLAO-25-MS-S04，自适应光学全国重点实验室，主持 &nbsp;</li>    
+                <li>2025.07-2030.12&nbsp;&nbsp;&nbsp;智慧运营中心智能感知功能建设(专题），2025ZD1408805-04-02，国家科技重大专项子专题，主持 &nbsp;</li>    
+                <li>2024.12-2026.12&nbsp;&nbsp;&nbsp;深层碳酸盐岩层间多次波波场机理及智能压制研究，2024CXJB09，中国石油-西南石油大学创新联合体支持交叉学科发展“揭榜挂帅”项目，主持  &nbsp;</li>
+                <li>2024.10-2025.12&nbsp;&nbsp;&nbsp;高效流固耦合算法与并行计算技术在水力压裂模拟中的应用研究，CQXNLX-2024-11，川庆钻探工程公司西南石油大学基础力学中心2024年新开科技项目计划，项目负责人，已结题&nbsp;</li>
+                <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;面向交通卡口违法车辆视觉感知关键技术研究，ZNJW2024KFMS003，智能警务四川省重点实验室2024年度开放课题面上项目，主持 &nbsp;</li>
+                <li>2024.01-2025.12&nbsp;&nbsp;&nbsp;地震多次波高效压制与深度学习集成研究，23XNSYSX0089，南充市-西南石油大学市校科技战略合作项目，项目负责人，已结题 &nbsp;</li>
+                 <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;激光消光层析水含量成像算法研究，IADL20220X0X，中国空气动力研究与发展中心结冰与防除冰重点实验室开放课题，主持，已结题  &nbsp;</li>
+                <li>2023.01-2024.12&nbsp;&nbsp;&nbsp;城市场景监控视频行为分析方法研究，ZNJW2023KFZD003，智能警务四川省重点实验室2023年度开放课题重点项目，项目负责人 ，已结题 &nbsp;</li>
+                 <li>2022.10-2024.10&nbsp;&nbsp;&nbsp;石油钻井环境异常工况智能识别技术研究，PLN2022-51，油气藏地质及开发工程国家重点实验室2022年开放基金课题，主持，已结题 &nbsp;</li>
+                <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于高性能计算与卷积神经网络的地震多次波压制方法研究，PLN2021-21，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人，已结题 &nbsp;</li>
+                <li>2021.09-2023.09&nbsp;&nbsp;&nbsp;基于联合深度学习的地震多次波压制方法研究，PLN2021-25，油气藏地质及开发工程国家重点实验室2021年开放基金课题，项目负责人，已结题 &nbsp;</li>
+                 <li>2019.01-2021.01&nbsp;&nbsp;&nbsp;医学超声模拟系统研究，2018QHZ024，2018年度西南石油大学科研“启航计划”自然科学类项目，主持 ，已结题  &nbsp;</li>
                   </ul>
               </div>
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 横向 </strong> </a>
               <div class="item-bd">
                   <ul class="section-content">
-                    <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司，项目负责人 &nbsp;</li>
-                    <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司，项目负责人 &nbsp;</li>
+                 <li>2021.10-2022.06&nbsp;&nbsp;&nbsp;GPU模块技术开发协议，青岛海信医疗设备股份有限公司，项目负责人 &nbsp;</li>
+                <li>2018.01-2019.06&nbsp;&nbsp;&nbsp;GeoScope软件模块GPU提速开发，成都晶石石油科技有限公司，项目负责人 &nbsp;</li>
+                  </ul>
+              </div>
+                <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong> 教改 </strong> </a>
+              <div class="item-bd">
+                  <ul class="section-content">
+                <li>2024.10-2027.10&nbsp;&nbsp;&nbsp;基于自适应阈值的BM3D去噪算法，2025年四川省优质专业学位研究生教学案例，主持 &nbsp;</li>   
+                <li>2024.10-2027.10&nbsp;&nbsp;&nbsp;《并行计算导论及应用》教材建设，西南石油大学2024年第二批本科校级规划教材，主持 &nbsp;</li>   
+                <li>2023.01-2025.01&nbsp;&nbsp;&nbsp;面向研究生的高性能计算课程建设，西南石油大学研究生教育教学改革与研究项目，主持，已结题 &nbsp;</li> 
+                <li>2022.12-2024.12&nbsp;&nbsp;&nbsp;《高级数字图像处理》案例：基于自适应阈值的BM3D去噪算法，2022年西南石油大学研究生案例库建设，主持，已结题 &nbsp;</li>  
+                <li>2019.12-2021.12&nbsp;&nbsp;&nbsp;《嵌入式软件技术基础》教学体系改革，教育部协同育人，主持，已结题 &nbsp;</li>                  
+                <li>2018.11-2020.11&nbsp;&nbsp;&nbsp;《嵌入式系统》教学内容与课程体系改革，教育部协同育人，主持，已结题&nbsp;</li>
                   </ul>
               </div>
           </div>
@@ -79,57 +90,57 @@
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>论文</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
-                    <li>Quan Zhang, Lingling Guo,et al.DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J].IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.(SCI 3区)&nbsp;</li> 
-                    <li>Quan Zhang, Yangchao Liu,et al.Free surface multiple suppression based on improved Uformer networkg[J].Journal of Applied Geophysics,252,2026,106376.(SCI 3区)&nbsp;</li> 
-                    <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
-                    <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
-                    <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
-                    <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
-                    <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
-                    <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
-                    <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
-                    <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.DOI:10.13382/j.jemi.B2508311.(EI,中文核心)&nbsp;</li> 
-                    <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,2026,66(7):1211-1220.DOI:10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
-                    <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
-                    <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
-                    <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
-                    <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
-                    <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
-                    <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
-                    <li>张全,吕晓雨,雷芩,等.基于改进pix2pix GAN的多次波压制算法[J].石油地球物理勘探,2024,59(04):664-674 (EI)&nbsp;</li>
-                    <li>张全,刘田甜,杨亮,等.基于人体关键点的吸烟打电话检测[J].计算机应用与软件,1-10. (网络首发 中文核心)&nbsp;</li>
-                    <li>Gao G, Yang L, Zhang Q,et al.ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures[J].Remote Sensing, 2023, 15(23). (SCI)&nbsp;</li>
-                    <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
-                    <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
-                    <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)&nbsp;</li>
-                    <li> Lei Zhao, Quan Zhang, Bo Peng, Liang Yang, "Real-time object detector for low-end devices," J. Electron. Imaging 31(1), 013016 (2022). (SCI，通信作者)&nbsp;</li>
-                    <li>Zhang Quan, Bao Hua, Rao Changhui, Redundancy computation analysis and implementation of phase diversity based on GPU, Optical Review ,2015, 22(5): 741-752(SCI)&nbsp;</li>
-                    <li>Zhang Quan, Bao Hua, Rao Changhui, A fast calculation method of optical transfer function using GPU parallel computation, Optical Review, 2015, 22(6): 903-910(SCI)&nbsp;</li>
-                    <li>张全, 雷芩, 林柏栎, 彭博, 刘书妍. 基于贪婪—快速迭代收缩阈值的Radon变换及其在多次波压制中的应用 2022 57 (6):1332-1341 (EI)&nbsp;</li>
-                    <li>张全, 张杰明, 雷芩, 彭博, 刘书妍. 基于CUDA的地震信号频率补偿并行算法[J].石油地球物理勘探, 2022, 57(05): 1241-1249 (EI)&nbsp;</li>
-                    <li>张全，林柏栎，杨勃，彭博，张伟，涂然．CPU-GPU 异构平台的抛物线 Radon 变换并行算法. 石油地球物理勘探，2020, 55(6): 1263-1270 (EI)&nbsp;</li>
-                    <li>Quan Zhang, Hua Bao, Changhui Rao, Zhenming Peng: GPU-based parallel ptimization implement of phase diversity, International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition,Beijing, P.R. China, 2014 (EI)&nbsp;</li>
-                    <li>张全,张伟,杨先凤等.融合YOLOv5-ResNet级联网络的烟火检测方法[J].安全与环境学报,2023,23(02):397-405(CSCD核心)&nbsp;</li>
-                    <li>张全,王一品,张伟等.地震波能量补偿的并行反Q滤波方法研究[J].西南石油大学学报(自然科学版),2023,45(01):24-32.（CSCD核心）&nbsp;</li>
-                    <li>张全，林柏栎，彭博.基于 CUDA 的地震相干体并行算法[J].地质与勘探,2020,56(1):147-153 (CSCD核心)&nbsp;</li>
-                    <li>陈鹏程, 向伟铭, 张全. 基于CUDA的地震倾角方位角并行算法[J]. 计算机应用, 2019, 39(S2):175-178. (CSCD核心，通信作者)&nbsp;</li>
-                    <li>张全，鲍华，饶长辉，彭真明，相位差算法在多GPU平台上的并行化实现，光电工程，2016，(03)：66~72(CSCD核心)&nbsp;</li>
-                    <li>张全，鲍华，饶长辉，彭真明，GPU平台二维快速傅里叶变换算法实现及应用，光电工程，2016，(02)：69~75(CSCD核心)&nbsp;</li>
-                    <li>张全，朱珍民，罗海勇，泛在设备互联桥接器设计及实现，计算机工程，2011，(20):230~232( CSCD核心)&nbsp;</li>
+                 <li>Quan Zhang, Lingling Guo,et al.DIMTrack: A Vehicle Multi-Object Tracking Method Integrating Spatial Attention and Disentangled Memory Learning[J].IEEE Access, vol. 14, pp. 143667-143686, 2026, doi: 10.1109/ACCESS.2026.3733720.(SCI 3区)&nbsp;</li> 
+                 <li>Quan Zhang, Yangchao Liu,et al.Free surface multiple suppression based on improved Uformer networkg[J].Journal of Applied Geophysics,252,2026,106376.(SCI 3区)&nbsp;</li> 
+                <li>Quan Zhang, Xiaoyu Lv,et al.Dual-Branch Enhanced U-Net Algorithm for Multi-Source Separation and Multiple Suppression in Seismic Data Processing[J].Journal of Applied Geophysics,1-16.(SCI 3区)&nbsp;</li> 
+                 <li>张全,邓君,高国庆,鲍华. 融合卷积局部特征与Transformer全局注意力的相位复原方法[J].光学学报，2026，录用(中文核心)&nbsp;</li>                      
+                <li>张全,杨鑫海,等.水力压裂裂缝扩展模型流-固耦合并行数值模拟技术[J].计算机工程与科学,1-12.录用(中文核心)&nbsp;</li> 
+                 <li>李艳,吕晓雨,刘阳超, 张全等. 基于混合优化与改进的U-Net震源分离方法[J]. 西南石油大学学报(自然科学版),2026,48(3): 39-52.(CSCD,中文核心,通讯作者)&nbsp;</li> 
+                <li>张全,周甯,刘洋毅,等.先验引导的多尺度车道线检测网络[J].电子测量与仪器学报,2026,40(4):236-244.DOI:10.13382/j.jemi.B2508434.(EI,中文核心)&nbsp;</li> 
+                 <li>赵红利,张全,魏明强,等.水力压裂停泵水击信号处理与进液点定位方法[J].水动力学研究与进展A辑,2026,41(3):459-470.DOI:10.16076/j.cnki.cjhd.2026.03.014.(CSCD,中文核心,通讯作者)&nbsp;</li> 
+                <li>张全,刘田甜,刘洋毅,等.融合多尺度特征的雾天车辆重识别算法[J].电子测量与仪器学报,2026,40(1):269-278.DOI:10.13382/j.jemi.B2508260.(EI,中文核心)&nbsp;</li> 
+                <li>张全,周甯,刘洋毅,等.基于特征融合与行锚点分类的车道线快速检测算法[J].电子测量与仪器学报,2025,39(12):188-196.DOI:10.13382/j.jemi.B2508311.(EI,中文核心)&nbsp;</li> 
+                <li>张全,王顺,刘洋毅,等.帧级纹理复用的AVS3划分和帧内预测算法[J].电讯技术,2026,66(7):1211-1220.DOI:10.20079/j.issn.1001-893x.250111002.(中文核心)&nbsp;</li>  
+                 <li>张全,王顺,刘洋毅,等.基于最小CU代价的AVS3帧内预测并行算法[J].电信科学,2025,41(2):57-67.(中文核心)&nbsp;</li>
+                 <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Research on the structure of a cloud field distribution measurement system in a high-speed icing wind tunnel", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491T (10 March 2025); https://doi.org/10.1117/12.3058913 （EI）&nbsp;</li>
+                 <li>Quan Zhang, Chao Qing, Chenglin Zuo, Jiahui Hu, and Yan Li "Simulation and analysis of a tomographic imaging system for cloud field measurement in rectangular icing wind tunnels", Proc. SPIE 13549, International Conference on Optoelectronic Materials and Devices (ICOMD 2024), 135491S (10 March 2025); https://doi.org/10.1117/12.3058906 （EI）&nbsp;</li>                      
+                 <li>Zhang Q, Yang L, Bai R,et al.Phase division and recognition of crystal HRTEM images based on machine learning and deep learning[J].Micron，184，2024.(SCI)&nbsp;</li>
+                 <li>Zhang Q, Lv X Y, Lei Q,et al.Seismic multiple attenuation based on improved U-Net[J].Applied Geophysics, 2024, 21(4):680-696.(SCI)&nbsp;</li>
+                <li>Quan Zhang, Chongmin Wang,et al."ITIR-Net:single-view 3D reconstruction by fusing features of image texture and implicit representation[J].Journal of Electronic Imaging 33(6).(SCI)&nbsp;</li>
+                <li>张全,吕晓雨,雷芩,等.基于改进pix2pix GAN的多次波压制算法[J].石油地球物理勘探,2024,59(04):664-674 (EI)&nbsp;</li>
+                <li>张全,刘田甜,杨亮,等.基于人体关键点的吸烟打电话检测[J].计算机应用与软件,1-10. (网络首发 中文核心)&nbsp;</li>
+                <li>Gao G, Yang L, Zhang Q,et al.ISHS-Net: Single-View 3D Reconstruction by Fusing Features of Image and Shape Hierarchical Structures[J].Remote Sensing, 2023, 15(23). (SCI)&nbsp;</li>
+                <li>Quan Zhang, Ru Bai, Bo Peng, et al. FFT pattern recognition of crystal HRTEM image with deep learning[J]. Micron, 166, 2023. (SCI)&nbsp;</li>
+                <li>Zhang Q, Yawen X U, Zhou J, et al. NEURAL NETWORK-BASED REPAIRING SKULL DEFECTS: AN INITIAL ASSESSMENT OF PERFORMANCE AND FEASIBILITY[J]. Journal of Mechanics in Medicine and Biology, 2021, 21(05). (SCI)&nbsp;</li>
+                <li>Lei Zhao, Quan Zhang, Bo Peng, Yangyi Liu, Faster object detector for drone-captured images, J. Electron. Imaging 31(4), 043033 (2022). (SCI，通信作者)&nbsp;</li>
+                <li> Lei Zhao, Quan Zhang, Bo Peng, Liang Yang, "Real-time object detector for low-end devices," J. Electron. Imaging 31(1), 013016 (2022). (SCI，通信作者)&nbsp;</li>
+                <li>Zhang Quan, Bao Hua, Rao Changhui, Redundancy computation analysis and implementation of phase diversity based on GPU, Optical Review ,2015, 22(5): 741-752(SCI)&nbsp;</li>
+                <li>Zhang Quan, Bao Hua, Rao Changhui, A fast calculation method of optical transfer function using GPU parallel computation, Optical Review, 2015, 22(6): 903-910(SCI)&nbsp;</li>
+                <li>张全, 雷芩, 林柏栎, 彭博, 刘书妍. 基于贪婪—快速迭代收缩阈值的Radon变换及其在多次波压制中的应用 2022 57 (6):1332-1341 (EI)&nbsp;</li>
+                <li>张全, 张杰明, 雷芩, 彭博, 刘书妍. 基于CUDA的地震信号频率补偿并行算法[J].石油地球物理勘探, 2022, 57(05): 1241-1249 (EI)&nbsp;</li>
+                <li>张全，林柏栎，杨勃，彭博，张伟，涂然．CPU-GPU 异构平台的抛物线 Radon 变换并行算法. 石油地球物理勘探，2020, 55(6): 1263-1270 (EI)&nbsp;</li>
+                <li>Quan Zhang, Hua Bao, Changhui Rao, Zhenming Peng: GPU-based parallel ptimization implement of phase diversity, International Symposium on Optoelectronic Technology and Application 2014: Image Processing and Pattern Recognition,Beijing, P.R. China, 2014 (EI)&nbsp;</li>
+                <li>张全,张伟,杨先凤等.融合YOLOv5-ResNet级联网络的烟火检测方法[J].安全与环境学报,2023,23(02):397-405(CSCD核心)&nbsp;</li>
+                <li>张全,王一品,张伟等.地震波能量补偿的并行反Q滤波方法研究[J].西南石油大学学报(自然科学版),2023,45(01):24-32.（CSCD核心）&nbsp;</li>
+                <li>张全，林柏栎，彭博.基于 CUDA 的地震相干体并行算法[J].地质与勘探,2020,56(1):147-153 (CSCD核心)&nbsp;</li>
+                <li>陈鹏程, 向伟铭, 张全. 基于CUDA的地震倾角方位角并行算法[J]. 计算机应用, 2019, 39(S2):175-178. (CSCD核心，通信作者)&nbsp;</li>
+                <li>张全，鲍华，饶长辉，彭真明，相位差算法在多GPU平台上的并行化实现，光电工程，2016，(03)：66~72(CSCD核心)&nbsp;</li>
+                <li>张全，鲍华，饶长辉，彭真明，GPU平台二维快速傅里叶变换算法实现及应用，光电工程，2016，(02)：69~75(CSCD核心)&nbsp;</li>
+                <li>张全，朱珍民，罗海勇，泛在设备互联桥接器设计及实现，计算机工程，2011，(20):230~232( CSCD核心)&nbsp;</li>
                   </ul>
             </div>
                 <a class="btn item-more">&nbsp;&nbsp;&nbsp;&nbsp;<strong>发明专利</strong></a>
             <div class="item-bd">
                   <ul class="section-content">
-                    <li>张全;郭羚羚;吴世豪;马琪;彭博.一种融合注意力与解耦记忆学习的车辆多目标跟踪方法(授权号：2026107037688) &nbsp;</li>
-                    <li>张全,刘田甜,段昶,彭博,李艳.一种应用于雾天车辆重识别的特征融合方法(授权号：2025103064198) &nbsp;</li> 
-                    <li>张全,赵红利,魏明强,彭博,李艳.一种利用水力压裂水击信号确定进液点位置的方法(授权号：2025106422768) &nbsp;</li> 
-                    <li>张全,杨鑫海,彭博,周文俊,陈曦宇,杨可,岳静. 一种并行模拟水力压裂裂缝扩展的方法(授权号：2025113171637) &nbsp;</li>  
-                    <li>张全,杨亮,白儒,彭博，等. 一种改进的基于深度学习的晶体TEM图像物相划分方法(授权号：2023111228792) &nbsp;</li>  
-                    <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法(授权号：2024118547168) &nbsp;</li>  
-                    <li>张全,杨亮,汪崇民,彭博,等.一种基于局部纹理的单视图三维重建方法(授权号：2023118353581) &nbsp;</li>                     
-                    <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法(授权号：2022116708151) &nbsp;</li>
-                    <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法(授权号：2021102070920) &nbsp;</li>
+                <li>张全;郭羚羚;吴世豪;马琪;彭博.一种融合注意力与解耦记忆学习的车辆多目标跟踪方法(授权号：2026107037688) &nbsp;</li>
+                <li>张全,刘田甜,段昶,彭博,李艳.一种应用于雾天车辆重识别的特征融合方法(授权号：2025103064198) &nbsp;</li> 
+                <li>张全,赵红利,魏明强,彭博,李艳.一种利用水力压裂水击信号确定进液点位置的方法(授权号：2025106422768) &nbsp;</li> 
+                <li>张全,杨鑫海,彭博,周文俊,陈曦宇,杨可,岳静. 一种并行模拟水力压裂裂缝扩展的方法(授权号：2025113171637) &nbsp;</li>  
+                <li>张全,杨亮,白儒,彭博，等. 一种改进的基于深度学习的晶体TEM图像物相划分方法(授权号：2023111228792) &nbsp;</li>  
+                <li>岳静,吴世豪,汪崇民,张全,彭博,杨亮. 一种基于结构特征和隐式特征的单视图三维重建方法(授权号：2024118547168) &nbsp;</li>  
+                <li>张全,杨亮,汪崇民,彭博,等.一种基于局部纹理的单视图三维重建方法(授权号：2023118353581) &nbsp;</li>                     
+                <li>张全,白儒,彭博,周文俊,王一帆. 一种基于深度学习的晶体TEM图像物相区域划分方法(授权号：2022116708151) &nbsp;</li>
+                <li>张全,赵磊,彭博,周文俊,张伟,涂然. 一种实时吸烟打电话识别方法(授权号：2021102070920) &nbsp;</li>
                   </ul>
             </div>
         </div>
