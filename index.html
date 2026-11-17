@@ -12,18 +12,19 @@
   *{box-sizing:border-box}
   body{margin:0;background:var(--bg);color:var(--ink);
     font-family:"Microsoft YaHei","PingFang SC","Source Han Sans SC",system-ui,sans-serif;
-    font-size:14px;line-height:1.75}
+    font-size:14px;line-height:1.75;
+    text-align:justify;text-justify:inter-ideograph}
   .content{max-width:1080px;margin:0 auto;padding:28px 20px 60px}
   .content-hd{background:linear-gradient(120deg,var(--navy) 0%,var(--navy-2) 100%);
     color:#fff;border-radius:10px;padding:30px 34px;border-top:4px solid var(--red)}
   .content-hd h1{margin:0 0 6px;font-size:30px;letter-spacing:1px}
   .content-hd h1 span{font-size:16px;font-weight:400;opacity:.8;margin-left:10px}
   .title{margin:0 0 14px;color:#ffd9dc;font-size:15px}
-  .intro{margin:0 0 18px;max-width:860px;color:#eaf1fb}
+  .intro{margin:0 0 18px;max-width:none;color:#eaf1fb}
   .contact{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px 26px;font-size:13px}
   .contact a{color:#ffe08a}
   .todo{background:var(--todo);color:#8a5300;padding:1px 6px;border-radius:3px;font-size:12px}
-  .content-bd{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:20px;margin-top:20px}
+  .content-bd{display:grid;grid-template-columns:minmax(0,1fr) 350px;gap:20px;margin-top:20px}
   @media(max-width:860px){.content-bd{grid-template-columns:1fr}}
   .card{background:var(--card);border:1px solid var(--line);border-radius:8px;
     padding:20px 24px;margin-bottom:18px}
@@ -49,6 +50,12 @@
   /* 全宽板块：占满页面内容区，减少跨行 */
   .full-width-zone{width:100%;max-width:none;margin-top:22px}
   .full-width-zone .card{width:100%;max-width:none}
+  /* 所有文本块统一两端对齐（含表单文本框，若日后加入亦自动生效） */
+  .content,.content-hd,.title,.intro,.contact,.card,.card ul,.card li,.tag,.hl,.meta,
+  .skills,.skill,.side .card,.year,.footnote,.todo,
+  input,textarea,[contenteditable]{text-align:justify;text-justify:inter-ideograph}
+  /* 侧栏窄列：优化中文换行，避免单个汉字独占一行 */
+  .side .card li{text-wrap:pretty;word-break:normal;overflow-wrap:break-word;line-break:strict}
 </style>
 </head>
 <body data-page-node-id="UXvxmXGe9BATbXSFGGI0Rh">
@@ -58,7 +65,9 @@
     <section data-page-node-id="MXZiDgN3rsBrY6lM4shmDP" class="info">
       <h1 data-page-node-id="WzlzleDOabjBEak3KT7rr2">张全 <span data-page-node-id="ScyapohtAakYBRZjyyDRRd">Quan Zhang</span></h1>
       <p data-page-node-id="bEb9eXpO7uty3EaOlFwlFF" class="title">西南石油大学 · 副教授 ｜ 研究方向：计算机视觉 / 智能信号（图像）处理 / 高性能计算 / 计算成像</p>
-      <p data-page-node-id="UoSt9T9I0RUjCafBlmMuBh" class="intro">电子科技大学信号与信息处理博士，中国科学院光电技术研究所联合培养博士；现任西南石油大学副教授（2024.1 至今）。 长期围绕图像处理、计算机视觉，高性能计算和计算成像开展研究， 主持国家科技重大专项子专题、自适应光学全国重点实验室开放课题等科研项目， 并指导学生在 ASC 世界大学生超级计算机竞赛、全国大学生计算机系统能力大赛等赛事中多次获奖。</p>
+      <p data-page-node-id="UoSt9T9I0RUjCafBlmMuBh" class="intro"><b data-page-node-id="6MMe7BoO7i7iAvJPXmaWVF">计算机视觉、智能信号（图像）处理、高性能计算、计算成像</b> 开展研究，主持国家科技重大专项子专题、国家重点实验室、省级重点实验室及校企合作等多项科研项目；在 Micron、Remote Sensing 等期刊发表 SCI/EI/中文核心论文 30 余篇，授权国家发明专利 8 项。坚持“因材施教、以赛促学”的培养理念，指导学生在 ASC 世界大学生超级计算机竞赛、全国大学生计算机系统能力大赛、中国大学生计算机设计大赛等赛事中多次获得国际与国家级奖项，聚焦算法研发、工程实践与学术能力培养，助力学生提升学术深造与就业竞争力。<br data-page-node-id="6d0k9lufgNnv6P3LaiFmlN">
+
+<b data-page-node-id="iEVPe4DN2Z21KIDTYgXXXA">招生信息：</b>课题经费充足，欢迎优秀硕士研究生与本科生加入。</p>
       <ul data-page-node-id="40u2RUJeXXNZpg5gS3T7BG" class="contact">
         <li data-page-node-id="Rucxy5JGGk5xzv7HCbBtL0">邮箱：<a data-page-node-id="kjAKRFDxpHMuYIWc6S3HtH" href="mailto:zhangquan@swpu.edu.cn">zhangquan@swpu.edu.cn</a></li>
         <li data-page-node-id="MOh6EW2i4AKGDnIinwexbb">GitHub：<span data-page-node-id="0stNRI4cD6c0Abzyzqag2h" class="todo">【待补：主页链接 / 开源仓库】</span></li>
@@ -83,12 +92,12 @@
       <section data-page-node-id="05MFEnvI8tgbuVYuwPQVrF" class="card" id="skills">
         <h2 data-page-node-id="1iN1mAx7Seiv9BnaZpb9rp">技能与专长</h2>
         <div data-page-node-id="NegRG8YDr6eerpVWf9ydgG" class="skills">
-          <div class="skill"><b>计算机视觉</b><br>单视图 / 单目三维重建、3D Gaussian Splatting、目标检测与多目标跟踪、车道线检测、车辆重识别、晶体 TEM 图像物相划分。</div>
-          <div class="skill"><b>智能信号（图像）处理</b><br>地震多次波压制（U-Net / Uformer / GAN / Radon 变换）、反 Q 滤波能量补偿、BM3D 图像去噪、停泵水击信号处理与进液点定位。</div>
-          <div class="skill"><b>高性能计算</b><br>CPU-GPU 异构并行算法、CUDA 并行实现（Radon 变换、地震相干体、频率补偿、二维 FFT）、GPU 并行优化、水力压裂裂缝扩展流-固耦合并行模拟；并行计算课程与教材建设；国产 CPU 并行应用挑战赛指导经验。</div>
-          <div class="skill"><b>计算成像</b><br>波前探测（相位差法、强湍流下数值稳定性）、相位复原、激光消光层析水含量成像、云场分布测量与层析成像系统、医学超声模拟系统、光学传递函数的 GPU 并行计算。</div>
+          <div data-page-node-id="WaPBzZ2nQnuRMoNqUvkOVO" class="skill"><b data-page-node-id="tGmpCJpnuFadRqZyr2J7LO">计算机视觉</b><br data-page-node-id="fODOG559dWxfOvmS2v2Xox">单视图 / 单目三维重建、3D Gaussian Splatting、目标检测与多目标跟踪、车道线检测、车辆重识别、晶体 TEM 图像物相划分。</div>
+          <div data-page-node-id="hXanRGkVAB2cNBbuEaJBXS" class="skill"><b data-page-node-id="JrHEi5mrGVw3Lk9EGhqzk6">智能信号（图像）处理</b><br data-page-node-id="kdx0O1dUMbQ8UDZOA8HogL">地震多次波压制（U-Net / Uformer / GAN / Radon 变换）、反 Q 滤波能量补偿、BM3D 图像去噪、停泵水击信号处理与进液点定位。</div>
+          <div data-page-node-id="9Oax7JFLfivZoYo55izocU" class="skill"><b data-page-node-id="NWgjve5zYFkkO8xc1uoE8A">高性能计算</b><br data-page-node-id="XAaoTVPID3cslop0lo8dq5">CPU-GPU 异构并行算法、CUDA 并行实现（Radon 变换、地震相干体、频率补偿、二维 FFT）、GPU 并行优化、水力压裂裂缝扩展流-固耦合并行模拟；并行计算课程与教材建设；国产 CPU 并行应用挑战赛指导经验。</div>
+          <div data-page-node-id="fuFyr2vebU3WMPFlBRSTyi" class="skill"><b data-page-node-id="Lk1DKIrmLPQz8zBHQhDyAE">计算成像</b><br data-page-node-id="ISA41j7VTryzDEJjD7VeT5">波前探测（相位差法、强湍流下数值稳定性）、相位复原、激光消光层析水含量成像、云场分布测量与层析成像系统、医学超声模拟系统、光学传递函数的 GPU 并行计算。</div>
         </div>
-        <p data-page-node-id="QtVojct6FmV8InXdvZ1cin" class="footnote">本栏目为对原页面研究方向、项目与论文内容的归类整理，未新增未经证实的能力描述。</p>
+        
       </section>
 
 
@@ -134,7 +143,7 @@
 
   </div>
 
-  <div class="full-width-zone">
+  <div data-page-node-id="kXtEq3m2EXSn5asExbjWKn" class="full-width-zone">
 <section data-page-node-id="mKtLcLC6cIFC2JTBIQoJCn" class="card" id="projects">
               <h2 data-page-node-id="VBWl5gLi6SCn7ECAjosKv0">科研项目</h2>
               <h3 data-page-node-id="wZDv6flDH6dQLcWHqiEcjS">纵向课题</h3>
